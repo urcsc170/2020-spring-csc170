@@ -7,6 +7,8 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Thursday, January 16, 2020**
   - [ ] Lecture 1: Introduction to the Industry
 
+<hr>
+
 - **Monday, January 20, 2020**
   - [ ] Martin Luther King Day observed (no classes)
 
@@ -18,6 +20,8 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Thursday, January 23, 2020**
   - [ ] Lecture 3: The Web and HTML
+
+<hr>
 
 - **Monday, January 27, 2020**
   - [ ] Lab 3: Content Prep
@@ -31,6 +35,8 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Thursday, January 30, 2020**
   - [ ] Lecture 5: Webpage Presentation, part 1; Project 1 Review
 
+<hr>
+
 - **Monday, February 3, 2020**
   - [ ] Lab 5: CSS for Formatting, part 1
 
@@ -42,6 +48,8 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Thursday, February 6, 2020**
   - [ ] Lecture 7: Webpage Layout, part 1
+
+<hr>
 
 - **Monday, February 10, 2020**
   - [ ] OPEN LAB (staffed)
@@ -55,6 +63,8 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Thursday, February 13, 2020**
   - [ ] Lecture 9: Website Navigation, part 1
 
+<hr>
+
 - **Monday, February 17, 2020**
   - [ ] Lab 8: CSS for Navigation
 
@@ -66,6 +76,8 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Thursday, February 20, 2020**
   - [ ] Lecture 11: Images for the Web
+
+<hr>
 
 - **Monday, February 24, 2020**
   - [ ] Lab 9: Images for the Web
@@ -79,6 +91,8 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Thursday, February 27, 2020**
   - [x] Lecture 13: CANCELLED
 
+<hr>
+
 - **Monday, March 2, 2020**
   - [ ] OPEN LAB (staffed)
 
@@ -90,6 +104,8 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Thursday, March 5, 2020**
   - [ ] Lecture 15: WAMP and MAMP Introduction
+
+<hr>
 
 - **Monday, March 9, 2020**
   - [ ] Spring Break
@@ -103,6 +119,8 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Thursday, March 12, 2020**
   - [ ] Spring Break
 
+<hr>
+
 - **Monday, March 16, 2020**
   - [ ] Lab 11: Localhost
 
@@ -114,6 +132,8 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Thursday, March 19, 2020**
   - [ ] Lecture 17: HTML Forms, part 2
+
+<hr>
 
 - **Monday, March 23, 2020**
   - [ ] Lab 13: HTML Forms, part 2
@@ -127,6 +147,8 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Thursday, March 26, 2020**
   - [ ] Lecture 19: Webpage Behavior, part 2; Project 3 Review
 
+<hr>
+
 - **Monday, March 30, 2020**
   - [ ] OPEN LAB (staffed)
 
@@ -138,6 +160,8 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Thursday, April 2, 2020**
   - [ ] Lecture 21: Website Construction, part 2
+
+<hr>
 
 - **Monday, April 6, 2020**
   - [ ] Lab 16: Menu Highlighter
@@ -151,6 +175,8 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Thursday, April 9, 2020**
   - [ ] Lecture 23: Mobile Design, part 2
 
+<hr>
+
 - **Monday, April 13, 2020**
   - [ ] Lab 17: Mobile Design
 
@@ -162,6 +188,8 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Thursday, April 16, 2020**
   - [ ] Lecture 25: Driving Traffic to Websites, part 2
+
+<hr>
 
 - **Monday, April 20, 2020**
   - [ ] Lab 18: Search Engine Optimization
@@ -175,8 +203,10 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Thursday, April 23, 2020**
   - [ ] Lecture 27: Final review
 
+<hr>
+
 - **Monday, April 27, 2020**
-  - [ ] FINAL EXAM
+  - [ ] Lab: FINAL EXAM
 
 - **Tuesday, April 28, 2020**
   - [x] CANCELLED
