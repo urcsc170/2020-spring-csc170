@@ -2,42 +2,24 @@
 
 An introduction to Internet and Web technologies. Topics include Internet transport protocols, HTML5 and CSS3, Web page design and Website publishing. Emphasis is placed on fundamentals, design concepts and industry standards. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
 
-- CRN: **51174**
+- CRN: **52638**
 - Course: **CSC 170**
 - Credits: **4.0**
-- Lecture Schedule: **Tuesdays and Thursdays, 3:25 to 4:40 PM**
+- Lecture Schedule: **Tuesdays and Thursdays, 11:05 AM to 12:20 PM**
 - Building: **Goergen Hall**
 - Room: **101**
 
 ## Instructor Information 
 - Instructor: **Professor Kostin**
 - E-mail: **<robert.kostin@rochester.edu>** (for faster reply, please use [Slack](https://csc170.slack.com/) to contact the professor)
-- Office: **Wegmans Hall, room 2105**
+- Office: **Wegmans Hall, room 2105** (temporarily)
 
 ### Office Hours
 - **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc170.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor, TAs, and other students will answer as quickly as possible
-- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in **Wegmans Hall, room 2015**:
-  - Mondays, 2:00 - 3:00 PM
-  - Wednesdays, 11:00 AM - 12:00 PM
-
-### Communication
-
-The professor will use **Slack** to make course‑related announcements and to distribute assignments.  Students are required to monitor Slack for announcements daily.  
-
-Students may also use Slack to ask questions and get help from the professor.
-
-- Sign-up for access to the CSC 170 Slack Workspace here: [join.slack.com/t/csc170/signup](https://join.slack.com/t/csc170/signup)
-
-  - Students must use their **rochester.edu** email when signing-up for access
-- After the student has created their account, they can access the *CSC 170 Slack Workspace* here: [csc170.slack.com](https://csc170.slack.com/) 
-
-  - Consider bookmarking that address
-- For faster access, consider installing the Slack application for Windows, Mac, iOS, or Android
-  - Using your PC, Mac, iPhone or Android device, go to this address to download the native application for whichever platform you're using: https://slack.com/downloads
-  - Consider turning-on Slack notifications in the smartphone app; they can be customized to keep from being overwhelmed with notifications
+- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Tuesdays and Wednesdays between 9:30 and 10:30 AM.
 
 ## Grading
-For each assignment, a grading rubric will be provided. Rubrics will inform students how assignments are evaluated.  In the interest of fairness, extra credit and make-up work is not offered.  
+For each assignment, a grading rubric is provided. Rubrics will explain how assignments are evaluated. 
 
 ### Grading Schema
 
@@ -64,15 +46,16 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 
 
 
-## Labs and Project Assignments
+## Lab and Project Assignments
 **Assignments** are made available via Blackboard after most lectures and can be completed in the lab room or independently on one's own Internet-connected computer (Mac or PC).  However...
 
 **Help:** THIS IS IMPORTANT --> to get help on any lab assignment or project, students must go to a scheduled lab session and find one of the TAs and ask for help.
 
-| **Lab**    | **Day & Time**<br>Location                                   | **Teaching Assistants**                                      |                                                              |                                                              |                                                             |
-| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- |
-| CRN: 51195 | Mondays and Wednesdays<br/>9:00 to 10:15 AM<br><br>Gavett 208 | Robert<br>Petrosyan<br>![Robert Petrosyan](media\robert-petrosyan.jpg) | Dominique<br>Dorvil<br/>![Dominique Dorvil](media\dominique-dorvil.jpg) | Christabel<br/>Ntete Kirenga<br>![Christabel Ntete Kirenga](media\christabel-ntete-kirenga.jpg) | Liam<br/>Gousios<br>![Liam Gousios](media\liam-gousios.jpg) |
-| CRN: 51207 | Mondays and Wednesdays<br/>3:25 to 4:40 PM<br/><br/>Gavett 208 | Joshua<br/>Dennis<br/>![Joshua Dennis](media\joshua-dennis.jpg) | Ryan<br>Lin<br>![Ryan Lin](media\ryan-lin.jpg)               | Lingling<br>Li<br>![Lingling Li](media\lingling-li.jpg)      | Emma<br/>Mantel <br>![Emma Mantel](media\emma-mantel.jpg)   |
+| **Lab**    | **Day & Time**                                 | **Location** | **Teaching Assistants**                                      |                                                              |                                                      |
+| ---------- | ---------------------------------------------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------- |
+| CRN: 52652 | Mondays and Wednesdays<br>11:05 AM to 12:20 PM | Gavett 208   | Qianwen Fu<br>![Qianwen Fu](media\qianwen-fu.jpg)            | Joshua Dennis<br/>![Joshua Dennis](media\joshua-dennis.jpg)  | Lingling Li<br>![Lingling Li](media\lingling-li.jpg) |
+| CRN: 52640 | Mondays and Wednesdays<br/>12:30 to 1:45 PM    | Gavett 208   | Ryan Lin<br>![Ryan Lin](media\ryan-lin.jpg)                  | Kelly Thornton<br>![Kelly Thornton](media\kelly-thornton.jpg) | Yuqi Zeng<br>![Yuqi Zeng](media\yuqi-zeng.jpg)       |
+| CRN: 52669 | Tuesdays and Thursdays<br>3:25 to 4:40 PM      | Gavett 208   | Robert Petrosyan<br>![Robert Petrosyan](media\robert-petrosyan.jpg) | Dominique Dorvil<br/>![Dominique Dorvil](media\dominique-dorvil.jpg) |                                                      |
 
 **Note:** throughout the semester, the assignments build on each other, meaning: students cannot complete one without successfully finishing the previous.  So, success in this course requires students to turn-in assignments on-time and in the right order.
 
@@ -115,6 +98,25 @@ If a student does not have a personal computer with these capabilities, the Univ
 For reference: during lectures the professor will be using a **Macbook** and **Windows PC** (alternatively) and a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3)). For FTP demonstrations, the professor will use **Cyberduck** (for Mac, [cyberduck.io](http://cyberduck.io)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php)).  Demonstrations during the lecture and in labs will be done using **Google Chrome**.
 
 Mid-way through the semester, the professor will introduce web server software that students can optionally install on their own computer.  The server (**Apache** from [httpd.apache.org](https://httpd.apache.org/)) can be installed using the free version of packaged software from: MAMP (for both PC and Mac, www.mamp.info/en)
+
+### Communication
+
+The professor will use **Slack** to make course‑related announcements and to distribute assignments.  Students are required to monitor Slack for announcements daily.  
+
+Students may also use Slack to ask questions and get help from the professor.
+
+- Sign-up for access to the CSC 170 Slack Workspace here: [join.slack.com/t/csc170/signup](https://join.slack.com/t/csc170/signup)
+
+  - Students must use their **rochester.edu** email when signing-up for access
+
+- After the student has created their account, they can access the *CSC 170 Slack Workspace* here: [csc170.slack.com](https://csc170.slack.com/) 
+
+  - Consider bookmarking that address
+  - For faster access, consider installing the Slack application for Windows, Mac, iOS, or Android
+
+
+  - Also consider turning-on Slack notifications in the smartphone app
+    - Notifications can be customized so the student is not overwhelmed with notifications
 
 ## Academic Honesty
 Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person’s work as one’s own, or the attempt “to blur the line between one’s own ideas or words and those borrowed from another source.” ([Council of Writing Program Administrators, January 2003,](http://wpacouncil.org/node/9)). More specifically for CSC 170, **computer code (HTML, CSS, PHP, or JavaScript) submitted for grading, that was copied from another source in part or whole without acknowledgment is plagiarism**.  To protect yourself, in the programming world, citations of sources may be placed in the "code comments" of submitted files.
