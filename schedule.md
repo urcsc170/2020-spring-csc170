@@ -2,10 +2,17 @@
 This schedule is subject to modification throughout the semester. Always check with the professor if you have any questions.
 
 - **Wednesday, January 15, 2020**
-  - [ ] Lab 1: Account Setup
-
+  - [ ] [Lab 1: Account Setup](lab01-account-setup/instructions.md) (due: Tuesday, January 21)
+  
 - **Thursday, January 16, 2020**
-  - [ ] Lecture 1: Introduction to the Industry
+  
+  - Lecture 1: Introduction to the Industry
+  - [CSC 170 Polling Questions](https://forms.gle/b75g4tR9viEo1peS7)
+  - [Slack for Classroom Communication (PDF)](01-Introduction-to-the-industry/slack-for-classroom-communication.pdf)
+  - [About this Course (PDF)](01-Introduction-to-the-industry/about-this-course.pdf)
+  - [Introduction to the Industry (PDF)](01-Introduction-to-the-industry/introduction-to-the-industry.pdf)
+  
+  - [What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 
 <hr>
 
