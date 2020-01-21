@@ -12,20 +12,28 @@ This schedule is subject to modification throughout the semester. Always check w
   - [About this Course (PDF)](01-Introduction-to-the-industry/about-this-course.pdf)
   - [Introduction to the Industry (PDF)](01-Introduction-to-the-industry/introduction-to-the-industry.pdf)
   
-  - [What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 
 <hr>
 
 - **Monday, January 20, 2020**
-  - [ ] Martin Luther King Day observed (no classes)
-
+  
+- Martin Luther King Day observed (no classes)
+  
 - **Tuesday, January 21, 2020**
-  - [ ] Lecture 2: The Internet
-
+  
+- Lecture 2: The Internet
+  
+  - [What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
+  - [Bullet Proof Websites (PDF)](02-the-internet/bullet-proof-websites.pdf)
+  - [Publishing Websites (PDF)](02-the-internet/publishing-websites.pdf)
+  - [The Internet (PDF)](02-the-internet/the-internet.pdf)
+  
 - **Wednesday, January 22, 2020**
-  - [ ] Lab 2: First HTML Webpage
-
+  
+- [ ] Lab 2: First HTML Webpage (coming soon)
+  
 - **Thursday, January 23, 2020**
+  
   - [ ] Lecture 3: The Web and HTML
 
 <hr>
