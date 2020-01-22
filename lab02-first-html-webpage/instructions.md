@@ -8,7 +8,7 @@ You will need to remember your FTP account information from Lab 1.
 
 ## Step 1: Create a new HTML file
 
-- On your desktop (or anywhere on your computer’s file system) create a folder titled: **lab02**
+- On your desktop (or anywhere on your computer's file system) create a folder titled: **lab02**
 - Inside the **lab02** folder, create a folder titled **images**
 - Inside the **lab02** folder (not the **images** folder) create a new HTML file named **start.html**
 - In your code editor, type the following exactly:
