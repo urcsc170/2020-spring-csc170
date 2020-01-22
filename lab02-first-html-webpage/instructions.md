@@ -48,7 +48,7 @@ Using the *comp* on the end of this document as a guide, you will write and past
 
 Your goal is to make it look like (but it doesn’t have to be exactly) like the *comp*.
 
-1. Write or copy & paste plain text into your HTML document between the `<body>` tags.  You can start by typing something like this between the `<body>` tags:
+- [ ] Write or copy & paste plain text into your HTML document between the `<body>` tags.  You can start by typing something like this between the `<body>` tags:
 
   ```html
   <h1>Hello World!</h1>
@@ -56,13 +56,13 @@ Your goal is to make it look like (but it doesn’t have to be exactly) like the
   
   Be sure you indent the H1 within the open/close BODY tags.  
   
-2. Save your HTML file, toggle back to your lab02 folder and double click your start.html file.  The file will open in a web browser – whatever is the default web browser for your computer.  There, you should see something like this:
+- [ ] Save your HTML file, toggle back to your lab02 folder and double click your start.html file.  The file will open in a web browser – whatever is the default web browser for your computer.  There, you should see something like this:
 
   ![figure1:three windows open on your desktop](media/figure1.png)
 
-  For the rest of this section, you will continue to write or copy & paste text into your HTML document, always between the one set of `<body>` tags.  (You can use any bits and pieces of the placeholder text – the *lorem ipsum* stuff – where ever you want.)  As you go, you will need to add “markup” (the tags) to the content.
+For the rest of this section, you will continue to write or copy & paste text into your HTML document, always between the one set of `<body>` tags.  (You can use any bits and pieces of the placeholder text – the *lorem ipsum* stuff – where ever you want.)  As you go, you will need to add “markup” (the tags) to the content.
 
-  3.Format the plain text in your document using HTML tags. Make sure you use at least one example of each of the following types of tags.<br>*WARNING: yes! – you must look-up how to use these tags correctly...*
+- [ ] Format the plain text in your document using HTML tags. Make sure you use at least one example of each of the following types of tags.<br>*WARNING: yes! – you must look-up how to use these tags correctly...*
 
   - **First level heading**
   - **Second level heading**
