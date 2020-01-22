@@ -16,7 +16,7 @@ Introduction to Web Development
 ## Current assignment(s)
 
 - Wednesday, January 15: **Account Setup**
-  - [ ] Lab 2: First HTML Webpage (coming soon)
+  - [ ] [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) (due: Monday, January 27)
   - [ ]  [Lab 1: Account Setup](lab01-account-setup/instructions.md) (was due: Tuesday, January 21)
     - Early semester forgiveness: if Lab 1 is not done yet (for whatever reason), it needs to be completed before Wednesday, January 22 ...before Lab 2!
 
