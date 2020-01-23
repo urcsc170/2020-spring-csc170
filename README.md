@@ -6,17 +6,17 @@ Introduction to Web Development
 
 ## Current topic
 
-- Tuesday, January 21: The Internet
+- Thursday, January 23: The Web and HTML
 
-  - [What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
-  - [Bullet Proof Websites (PDF)](02-the-internet/bullet-proof-websites.pdf)
-  - [Publishing Websites (PDF)](02-the-internet/publishing-websites.pdf)
-  - [The Internet (PDF)](02-the-internet/the-internet.pdf)
+  - [The Internet (PDF)](02-the-internet/the-internet.pdf) (continued from last time)
+  - [The Web and HTML (PDF)](03-the-web-and-html/the-web-and-html.pdf)
+  - [Tim Berners-Lee's Proposal from March 1989 (website)](http://info.cern.ch/Proposal.html)
+  - [LMB (Line Mode Browser) simulator (online demo)](http://line-mode.cern.ch/)
+  - ["WorldWideWeb" the first web browser (wikipedia article)](https://en.wikipedia.org/wiki/WorldWideWeb)
+  - [W3C Markup Validation Service (web application)](https://validator.w3.org/)
 
 ## Current assignment(s)
 
 - Wednesday, January 15: **Account Setup**
+  - [ ] Lab 3: Content Prep (coming soon)
   - [ ] [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) (due: Monday, January 27)
-  - [ ]  [Lab 1: Account Setup](lab01-account-setup/instructions.md) (was due: Tuesday, January 21)
-    - Early semester forgiveness: if Lab 1 is not done yet (for whatever reason), it needs to be completed before Wednesday, January 22 ...before Lab 2!
-

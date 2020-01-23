@@ -1,7 +1,7 @@
 # Schedule
 This schedule is subject to modification throughout the semester. Always check with the professor if you have any questions.
 
-- **Wednesday, January 15, 2020**
+- **Wednesday, January 15, 2020** Lab
   - [ ] [Lab 1: Account Setup](lab01-account-setup/instructions.md) (due: Tuesday, January 21)
   
 - **Thursday, January 16, 2020** Lecture 1: Introduction to the Industry
@@ -13,10 +13,9 @@ This schedule is subject to modification throughout the semester. Always check w
 
 <hr>
 
-- **Monday, January 20, 2020**
+- **Monday, January 20, 2020** no classes
   
-  
-  - Martin Luther King Day observed (no classes)
+  - Martin Luther King Day observed
   
 - **Tuesday, January 21, 2020** Lecture 2: The Internet
   
@@ -25,14 +24,17 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Publishing Websites (PDF)](02-the-internet/publishing-websites.pdf)
   - [The Internet (PDF)](02-the-internet/the-internet.pdf)
   
-- **Wednesday, January 22, 2020**
-  
+- **Wednesday, January 22, 2020** Lab
   
   - [ ] [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) (due: Monday, January 27)
   
-- **Thursday, January 23, 2020**
-  
-  - Lecture 3: The Web and HTML
+- **Thursday, January 23, 2020** Lecture 3: The Web and HTML
+  - [The Internet (PDF)](02-the-internet/the-internet.pdf) (continued from last time)
+  - [The Web and HTML (PDF)](03-the-web-and-html/the-web-and-html.pdf)
+  - [Tim Berners-Lee's Proposal from March 1989 (website)](http://info.cern.ch/Proposal.html)
+  - [LMB (Line Mode Browser) simulator (online demo)](http://line-mode.cern.ch/)
+  - ["WorldWideWeb" the first web browser (wikipedia article)](https://en.wikipedia.org/wiki/WorldWideWeb)
+  - [W3C Markup Validation Service (web application)](https://validator.w3.org/)
 
 <hr>
 
