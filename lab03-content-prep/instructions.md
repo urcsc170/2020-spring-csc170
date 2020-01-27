@@ -22,16 +22,30 @@ Take a look at the [EXAMPLE (ZIP)](example.zip) files. This is what your content
 
 - [ ] The overall word count for the content you collect must be **above about 1,000 words or so** - so you have enough content to work with in the labs coming later in the semester
 
+***Top part...***
+
 - [ ] A **title** (this will act as a first level heading)
 - [ ] A **subtitle** (Wikipedia pages don't have subtitles; you can just make one up)
-- [ ] At least **four second level headings**
+
+***Headings and Paragraphs...***
+
+- [ ] Under the subtitle should be at least **THREE second level headings** under which you'll add...
 - [ ] At least **three paragraphs** of text under *each* of the first *three* second level headings
 - [ ] Each paragraph should be **at least 50 words** (more is better)
-- [ ] Under the last second level heading, get/create at least **two lists with at least seven items each**; you can use any kind of list: unordered, ordered or definition list (any combination)
-- [ ] Create another second level heading (this will be the fifth second level heading) at the bottom of the document using the text: "**Citations**"
+
+***Lists Section...***
+
+- [ ] Create another second level heading (this will be the **FORTH second level heading**) at the bottom of the document; the heading text should be something/anything that makes sense for the content you're using
+- [ ] Under the FORTH heading get/create at least **two lists with at least seven items each**; you can use any kind of list: unordered, ordered or definition list (any combination)
+    - Also under the heading you can put a small paragraph (recommended) before the lists, and...
+    - Optionally put a third-level heading above each list
+
+***Citations and Sources...*** 
+
+- [ ] Create a FIFTH heading: "**Citations**" at the bottom of the document
 - [ ] Under the Citations heading, get/create at least **three references and/or external links** with their complete text and hypertext-links to other sources 
     -   NOTE: copy & paste the URLs right in the text next to each citation (see the examples in the EXAMPLE ZIP file)
-- [ ] Create another second level heading at the bottom with the text (this will be the sixth second level heading) at the bottom of the document using the text: "**Source**"
+- [ ] Create SIXTH second level heading at the bottom with the text at the bottom of the document using the text: "**Source**"
 - [ ] Under the Source heading, get/create one more citation, referring to the **source of the Wikipedia page(s)** you used in this assignment
 
 Note: you can slop together any related content as you need to make the assignment whole which includes: taking content from more than one Wikipedia page; writing a little bit of content yourself (for simple headers or captions, as needed). The assignment requires "real" content, but will not be graded for content quality.
