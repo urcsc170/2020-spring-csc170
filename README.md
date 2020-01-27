@@ -17,6 +17,5 @@ Introduction to Web Development
 
 ## Current assignment(s)
 
-- Wednesday, January 15: **Account Setup**
-  - [ ] Lab 3: Content Prep (coming soon)
-  - [ ] [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) (due: Monday, January 27)
+- Monday, January 27:
+  - [ ] [Lab 3: Content Preparation (due: Wednesday, January 29)](lab03-content-prep/instructions.md)

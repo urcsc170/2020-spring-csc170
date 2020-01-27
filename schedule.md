@@ -40,7 +40,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Monday, January 27, 2020**
   
-  - [ ] Lab 3: Content Prep
+  - [ ] [Lab 3: Content Preparation (due: Wednesday, January 29)](lab03-content-prep/instructions.md)
   
 - **Tuesday, January 28, 2020**
   
