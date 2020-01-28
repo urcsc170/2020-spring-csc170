@@ -2,7 +2,7 @@
 This schedule is subject to modification throughout the semester. Always check with the professor if you have any questions.
 
 - **Wednesday, January 15, 2020** Lab
-  - [ ] [Lab 1: Account Setup](lab01-account-setup/instructions.md) (due: Tuesday, January 21)
+  - [x] [Lab 1: Account Setup](lab01-account-setup/instructions.md) (due: Tuesday, January 21)
   
 - **Thursday, January 16, 2020** Lecture 1: Introduction to the Industry
   - [CSC 170 Polling Questions](https://forms.gle/b75g4tR9viEo1peS7)
@@ -26,7 +26,7 @@ This schedule is subject to modification throughout the semester. Always check w
   
 - **Wednesday, January 22, 2020** Lab
   
-  - [ ] [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) (due: Monday, January 27)
+  - [x] [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) (due: Monday, January 27)
   
 - **Thursday, January 23, 2020** Lecture 3: The Web and HTML
   - [The Internet (PDF)](02-the-internet/the-internet.pdf) (continued from last time)
@@ -40,19 +40,17 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Monday, January 27, 2020**
   
-  - [ ] [Lab 3: Content Preparation (due: Wednesday, January 29)](lab03-content-prep/instructions.md)
-  
-- **Tuesday, January 28, 2020**
-  
-  - Lecture 4: Web Document Structure
-  
+  - [x] [Lab 3: Content Preparation (due: Wednesday, January 29)](lab03-content-prep/instructions.md)
+- **Tuesday, January 28, 2020** Lecture 4: Web Document Structure
+  - [Web Document Structure (PDF)](04-web-document-structure/web-document-structure.pdf)
+  - [The Machine is Us-ing Us (YouTube)](https://www.youtube.com/watch?v=NLlGopyXT_g&feature=youtu.be)
+  - [HTML5 New Elements (web page)](https://www.w3schools.com/html/html5_new_elements.asp) and [HTML5 Semantic Elements (web page)](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - **Wednesday, January 29, 2020**
   
   - [ ] Lab 4: Structured HTML Document
-  
 - **Thursday, January 30, 2020**
   
-  Lecture 5: Webpage Presentation, part 1; Project 1 Review
+  - Lecture 5: Webpage Presentation, part 1; Project 1 Review
 
 <hr>
 
@@ -62,7 +60,7 @@ This schedule is subject to modification throughout the semester. Always check w
   
 - **Tuesday, February 4, 2020**
   
-  Lecture 6: Webpage Presentation, part 2
+  - Lecture 6: Webpage Presentation, part 2
   
 - **Wednesday, February 5, 2020**
 

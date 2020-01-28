@@ -6,14 +6,11 @@ Introduction to Web Development
 
 ## Current topic
 
-- Thursday, January 23: The Web and HTML
+- Tuesday, January 28: Web Document Structure
 
-  - [The Internet (PDF)](02-the-internet/the-internet.pdf) (continued from last time)
-  - [The Web and HTML (PDF)](03-the-web-and-html/the-web-and-html.pdf)
-  - [Tim Berners-Lee's Proposal from March 1989 (website)](http://info.cern.ch/Proposal.html)
-  - [LMB (Line Mode Browser) simulator (online demo)](http://line-mode.cern.ch/)
-  - ["WorldWideWeb" the first web browser (wikipedia article)](https://en.wikipedia.org/wiki/WorldWideWeb)
-  - [W3C Markup Validation Service (web application)](https://validator.w3.org/)
+  - [Web Document Structure (PDF)](04-web-document-structure/web-document-structure.pdf)
+  - [The Machine is Us-ing Us (YouTube)](https://www.youtube.com/watch?v=NLlGopyXT_g&feature=youtu.be)
+  - [HTML5 New Elements (web page)](https://www.w3schools.com/html/html5_new_elements.asp) and [HTML5 Semantic Elements (web page)](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ## Current assignment(s)
 
