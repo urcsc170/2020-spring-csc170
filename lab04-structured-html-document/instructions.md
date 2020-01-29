@@ -40,7 +40,7 @@ NOTE: the four elements above, HEADER, ARTICLE, ASIDE, and FOOTER will contain *
 
 ## 2. Load your Content in the HTML Document
 
-*This is the point of this lab*: **You must figure out how best to semantically tag your content to identify each part of content** WITHIN the prescribed structure (header, article, aside, and footer).
+*This is the point of this lab*: **You must semantically tag your content to identify each part of content** WITHIN the prescribed structure (header, article, aside, and footer).
 
 Using your content from Lab 3, extract the text and images and fill the structure as follows:
 
