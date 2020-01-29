@@ -44,10 +44,10 @@ NOTE: the four elements above, HEADER, ARTICLE, ASIDE, and FOOTER will contain *
 
 Using your content from Lab 3, extract the text and images and fill the structure as follows:
 
-- [ ] In the **HEADER**, use one (and only one) **H1** for the name of the topic you selected from Lab 3
+- [ ] In the **HEADER**, use one **H1** for the name of the topic you selected from Lab 3
 - [ ] Also in the **HEADER**, create a subtitle (there is no "subtitle" tag, so use a **DIV**)
-- [ ] At least three second-level headings (**H2**s) and their associated paragraphs go in the **ARTICLE**
-- [ ] The second-level heading (another **H2**) with the lists (and associated paragraphs, if any), goes in the **ASIDE**
+- [ ] Your second-level headings (**H2**s) and their associated paragraphs go in the **ARTICLE**
+- [ ] The second-level heading (another **H2**) with the lists (and associated paragraphs, if any), go in the **ASIDE**
 - [ ] The last headings (two more **H2**s), Citations and Source, along with their text go in the **FOOTER**, coded appropriately
     -   Note: the "list" of citations is a *list* ...code it as an unordered list with anchor tags
     -   The reference to the source of your content can go in a **P** (if you write it as a paragraph), or a **UL** if you have more than one source and want to show them in a list
@@ -62,9 +62,9 @@ IMPORTANT: make sure there is *no* content between the structural tags (the **HE
 
 Remember: the HTML document MUST remain “semantically pure.”  Use tags for the purpose for which they were invented only!  
 
-- No tags to push content around! That means no **BR**, **HR** or extraneous **P** tags anywhere, and definitely no **B** or **I** tags.
+- No tags just to push content around! That means no **BR**, **HR** or extraneous **P** tags anywhere, and definitely no **B** or **I** tags.
 
-- Do not add **STRONG** or **EM** tags just to make things bold or italics
+- You can use **STRONG** and **EM** tags, but do not add them just to make things bold or italics.  Only use them when you have something that is "strong" or needs to be "emphasized".
 
   - "Strong" means *important*
 
