@@ -14,5 +14,7 @@ Introduction to Web Development
 
 ## Current assignment(s)
 
+- Wednesday, January 29:
+  - [ ] [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Monday, February 3)
 - Monday, January 27:
-  - [ ] [Lab 3: Content Preparation (due: Wednesday, January 29)](lab03-content-prep/instructions.md)
+  - [ ] [Lab 3: Content Preparation](lab03-content-prep/instructions.md) (due: Wednesday, January 29)
