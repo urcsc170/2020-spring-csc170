@@ -6,15 +6,18 @@ Introduction to Web Development
 
 ## Current topic
 
-- Tuesday, January 28: Web Document Structure
+- Thursday, January 30: Webpage Presentation, part 1; and Project 1 Instructions
 
-  - [Web Document Structure (PDF)](04-web-document-structure/web-document-structure.pdf)
-  - [The Machine is Us-ing Us (YouTube)](https://www.youtube.com/watch?v=NLlGopyXT_g&feature=youtu.be)
-  - [HTML5 New Elements (web page)](https://www.w3schools.com/html/html5_new_elements.asp) and [HTML5 Semantic Elements (web page)](https://www.w3schools.com/html/html5_semantic_elements.asp)
+  - [Project 1 Information (PDF)](05-web-presentation1/project1.pdf)
+  - [CSS for Formatting, part 1 (PDF)](05-web-presentation1/css-for-formatting1.pdf)
+  - [Color Keywords (webpage)](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) ...good reference
+  - [PureCSS Lace (webpage)](https://diana-adrianne.com/purecss-lace/) ...insane CSS!
 
 ## Current assignment(s)
 
+- Monday, February 3:
+  - [ ] Lab 5: CSS for Formatting (coming soon)
+- Wednesday, January 30:
+  - [ ] [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: February 25)
 - Wednesday, January 29:
   - [ ] [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Monday, February 3)
-- Monday, January 27:
-  - [ ] [Lab 3: Content Preparation](lab03-content-prep/instructions.md) (due: Wednesday, January 29)

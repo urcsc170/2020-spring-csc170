@@ -46,17 +46,19 @@ This schedule is subject to modification throughout the semester. Always check w
   - [The Machine is Us-ing Us (YouTube)](https://www.youtube.com/watch?v=NLlGopyXT_g&feature=youtu.be)
   - [HTML5 New Elements (web page)](https://www.w3schools.com/html/html5_new_elements.asp) and [HTML5 Semantic Elements (web page)](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - **Wednesday, January 29, 2020**
-  
-  - [ ] [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Monday, February 3)
-- **Thursday, January 30, 2020**
-  
-  - Lecture 5: Webpage Presentation, part 1; Project 1 Review
+  - [x] [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Monday, February 3)
+- **Thursday, January 30, 2020** Lecture 5: Webpage Presentation, part 1; and Project 1 Instructions
+  - [Project 1 Information (PDF)](05-web-presentation1/project1.pdf)
+  - [ ] Assignment: [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: February 25)
+  - [CSS for Formatting, part 1 (PDF)](05-web-presentation1/css-for-formatting1.pdf)
+  - [Color Keywords (webpage)](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) ...good reference
+  - [PureCSS Lace (webpage)](https://diana-adrianne.com/purecss-lace/) ...insane CSS!
 
 <hr>
 
 - **Monday, February 3, 2020**
   
-  - [ ] Lab 5: CSS for Formatting, part 1
+  - [ ] Lab 5: CSS for Formatting, part 1 (coming soon)
   
 - **Tuesday, February 4, 2020**
   
