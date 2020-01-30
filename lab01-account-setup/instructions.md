@@ -10,7 +10,7 @@ Your **FTP (File Transfer Protocol) account** is what you will use to copy your 
 In the lab section where you are registered, **find one of the TAs and ask them** to create an FTP account for you.  
 
 - [ ] When the TA is ready, create your **FTP username** 
-  - Your username should be the same as your UR **NetID** (*not* your student ID; e.g. *rkostin*)
+  - Your username should be the same as your UR **NetID** (e.g. *rkostin*)
   - Your username should be all lowercase
   
 - [ ] Create your **FTP password**
