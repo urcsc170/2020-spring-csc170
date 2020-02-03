@@ -58,7 +58,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Monday, February 3, 2020**
   
-  - [ ] Lab 5: CSS for Formatting, part 1 (coming soon)
+  - [ ] [Lab 5: CSS for Formatting](lab05-css-for-formatting1/instructions.md) (due: February 5)
   
 - **Tuesday, February 4, 2020**
   
