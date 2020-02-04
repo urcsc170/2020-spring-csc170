@@ -65,12 +65,11 @@ This schedule is subject to modification throughout the semester. Always check w
   - [CSS3 Generator (web app)](http://css3generator.com/)
   - [Ultimate CSS Gradient Generator (web app)](https://www.colorzilla.com/gradient-editor/)
   - [PureCSS Lace (webpage)](https://diana-adrianne.com/purecss-lace/) ...insane CSS!
-  - Demo files from the lecture (coming soon)
+  - [Demo files from the lecture (ZIP)](06-web-presentation2/in-class_demo.zip)
   
 - **Wednesday, February 5, 2020**
-
-  - [ ] Lab 6: CSS for Formatting, part 2
-
+- [ ] Lab 6: CSS for Formatting, part 2
+  
 - **Thursday, February 6, 2020**
 
   - Lecture 7: Webpage Layout, part 1

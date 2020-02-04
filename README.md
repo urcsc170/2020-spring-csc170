@@ -12,7 +12,7 @@ Introduction to Web Development
   - [CSS3 Generator (web app)](http://css3generator.com/)
   - [Ultimate CSS Gradient Generator (web app)](https://www.colorzilla.com/gradient-editor/)
   - [PureCSS Lace (webpage)](https://diana-adrianne.com/purecss-lace/) ...insane CSS!
-  - Demo files from the lecture (coming soon)
+  - [Demo files from the lecture (ZIP)](06-web-presentation2/in-class_demo.zip)
 
 ## Current assignment(s)
 
