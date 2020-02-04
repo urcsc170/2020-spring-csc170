@@ -6,12 +6,13 @@ Introduction to Web Development
 
 ## Current topic
 
-- Thursday, January 30: Webpage Presentation, part 1; and Project 1 Instructions
-
-  - [Project 1 Information (PDF)](05-web-presentation1/project1.pdf)
-  - [CSS for Formatting, part 1 (PDF)](05-web-presentation1/css-for-formatting1.pdf)
-  - [Color Keywords (webpage)](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) ...good reference
+- Tuesday, February 4, 2020 **Lecture 6: Webpage Presentation, part 2**
+  - [CSS for Formatting, part 2 (PDF)](06-web-presentation2/selctors-box-model-floats.pdf) - selectors, box model, floats
+  - [Meet the Pseudo Class Selectors (article)](https://css-tricks.com/pseudo-class-selectors/)
+  - [CSS3 Generator (web app)](http://css3generator.com/)
+  - [Ultimate CSS Gradient Generator (web app)](https://www.colorzilla.com/gradient-editor/)
   - [PureCSS Lace (webpage)](https://diana-adrianne.com/purecss-lace/) ...insane CSS!
+  - Demo files from the lecture (coming soon)
 
 ## Current assignment(s)
 
