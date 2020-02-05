@@ -57,7 +57,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Monday, February 3, 2020**
   
-  - [x] [Lab 5: CSS for Formatting](lab05-css-for-formatting1/instructions.md) (due: February 5)
+  - [x] [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) (due: February 5)
   
 - **Tuesday, February 4, 2020** Lecture 6: Webpage Presentation, part 2
   - [CSS for Formatting, part 2 (PDF)](06-web-presentation2/selctors-box-model-floats.pdf) - selectors, box model, floats
@@ -68,11 +68,10 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Demo files from the lecture (ZIP)](06-web-presentation2/in-class_demo.zip)
   
 - **Wednesday, February 5, 2020**
-- [ ] Lab 6: CSS for Formatting, part 2
+- [ ] [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due: February 12 ...one week!)
   
 - **Thursday, February 6, 2020**
-
-  - Lecture 7: Webpage Layout, part 1
+- Lecture 7: Webpage Layout, part 1
 
 <hr>
 
