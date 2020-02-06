@@ -6,14 +6,14 @@ Introduction to Web Development
 
 ## Current topic
 
-- Tuesday, February 4, 2020 **Lecture 6: Webpage Presentation, part 2**
-  - [CSS for Formatting, part 2 (PDF)](06-web-presentation2/selctors-box-model-floats.pdf) - selectors, box model, floats
-  - [Meet the Pseudo Class Selectors (article)](https://css-tricks.com/pseudo-class-selectors/)
+- Thursday, February 6 **Lecture 7: Webpage Layout, part 1**
+  - [CSS for Layout, part 1 (PDF)](07-web-layout1/css-for-layout1.pdf)
+  - [Advertisement for CSC 174 (PDF)](07-web-layout1/summer-web-cluster-flyer.pdf) ...tell your friends!
   - [CSS3 Generator (web app)](http://css3generator.com/)
-  - [Ultimate CSS Gradient Generator (web app)](https://www.colorzilla.com/gradient-editor/)
+  - [CSS Gradient Generator (web app)](https://www.colorzilla.com/gradient-editor/)
   - [PureCSS Lace (webpage)](https://diana-adrianne.com/purecss-lace/) ...insane CSS!
-  - [Demo files from the lecture - the seven CSS selectors (ZIP)](06-web-presentation2/in-class_demo.zip)
-  - [More files from the lecture - how to fix a float (ZIP)](06-web-presentation2/in-class_demo2.zip)
+  - [Web Evolution (web presentation)](http://fabianburghardt.de/webolution/)
+  - [New York Times Snow Fall (web article)](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek)
 
 ## Current assignment(s)
 

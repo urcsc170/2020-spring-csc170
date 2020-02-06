@@ -58,21 +58,23 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Monday, February 3, 2020**
   
   - [x] [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) (due: February 5)
-  
 - **Tuesday, February 4, 2020** Lecture 6: Webpage Presentation, part 2
   - [CSS for Formatting, part 2 (PDF)](06-web-presentation2/selctors-box-model-floats.pdf) - selectors, box model, floats
   - [Meet the Pseudo Class Selectors (article)](https://css-tricks.com/pseudo-class-selectors/)
-  - [CSS3 Generator (web app)](http://css3generator.com/)
-  - [Ultimate CSS Gradient Generator (web app)](https://www.colorzilla.com/gradient-editor/)
-  - [PureCSS Lace (webpage)](https://diana-adrianne.com/purecss-lace/) ...insane CSS!
   - [Demo files from the lecture - the seven CSS selectors (ZIP)](06-web-presentation2/in-class_demo.zip)
-  - [More files from the lecture - how to fix a float (ZIP)](06-web-presentation2/in-class_demo2.zip)
-  
+  - [More demo files from the lecture - how to fix a float (ZIP)](06-web-presentation2/in-class_demo2.zip)
 - **Wednesday, February 5, 2020**
-- [ ] [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due: February 12 ...one week!)
-  
-- **Thursday, February 6, 2020**
-- Lecture 7: Webpage Layout, part 1
+
+  - [ ] [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due: February 12 ...one week!)
+- **Thursday, February 6, 2020** Lecture 7: Webpage Layout, part 1
+
+  - [CSS for Layout, part 1 (PDF)](07-web-layout1/css-for-layout1.pdf)
+  - [Advertisement for CSC 174 (PDF)](07-web-layout1/summer-web-cluster-flyer.pdf) ...tell your friends!
+  - [CSS3 Generator (web app)](http://css3generator.com/)
+  - [CSS Gradient Generator (web app)](https://www.colorzilla.com/gradient-editor/)
+  - [PureCSS Lace (webpage)](https://diana-adrianne.com/purecss-lace/) ...insane CSS!
+  - [Web Evolution (web presentation)](http://fabianburghardt.de/webolution/)
+  - [New York Times Snow Fall (web article)](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek)
 
 <hr>
 
