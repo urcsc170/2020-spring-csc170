@@ -15,8 +15,7 @@ Introduction to Web Development
 
 ## Current assignment(s)
 
-- Wednesday, February 5:
-  - [ ] [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due: February 12 ...one week!)
-
+- Wednesday, February 12:
+  - [ ] [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: February 17)
 - Wednesday, January 30:
   - [ ] [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: February 25)
