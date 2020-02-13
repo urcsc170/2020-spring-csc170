@@ -65,7 +65,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - [More demo files from the lecture - how to fix a float (ZIP)](06-web-presentation2/in-class_demo2.zip)
 - **Wednesday, February 5, 2020**
 
-  - [ ] [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due: February 12 ...one week!)
+  - [x] [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due: February 12 ...one week!)
 - **Thursday, February 6, 2020** Lecture 7: Webpage Layout, part 1
 
   - [CSS for Layout, part 1 (PDF)](07-web-layout1/css-for-layout1.pdf)
@@ -79,8 +79,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, February 10, 2020**
-  - [ ] OPEN LAB (staffed) - continue working on Lab 6
-
+  - [x] OPEN LAB (staffed) - continue working on Lab 6
 - **Tuesday, February 11, 2020** Lecture 8: Webpage Layout, part 2
   - [CSS for Layout, part 1 (PDF)](07-web-layout1/css-for-layout1.pdf) (missed from last Thursday)
   - [Old Fashioned Layout Examples (ZIP)](08-web-layout2/old-fashioned-layout-examples.zip)
@@ -89,8 +88,10 @@ This schedule is subject to modification throughout the semester. Always check w
   - Try out: [online flex code generator (web app)](https://the-echoplex.net/flexyboxes/) and [online grid code generator (web app)](https://cssgr.id/) ...and look for more!
 - **Wednesday, February 12, 2020**
     - [ ] [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: February 17)
-- **Thursday, February 13, 2020**
-  - Lecture 9: Website Navigation, part 1
+- **Thursday, February 13, 2020** Lecture 9: Website Navigation, part 1
+
+  - [CSS for Navigation, part 1 (PDF)](09-web-navigation1/css-for-navigation.pdf)
+  - [Basic Navigation Demo File (ZIP)](09-web-navigation1/demo_basic-navigation.zip)
 
 <hr>
 
