@@ -87,7 +87,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - [CSS Flex and CSS Grid Demos (ZIP)](08-web-layout2/flex-and-grid_demos.zip)
   - Try out: [online flex code generator (web app)](https://the-echoplex.net/flexyboxes/) and [online grid code generator (web app)](https://cssgr.id/) ...and look for more!
 - **Wednesday, February 12, 2020**
-    - [ ] [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: February 17)
+    - [x] [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: February 17)
 - **Thursday, February 13, 2020** Lecture 9: Website Navigation, part 1
 
   - [CSS for Navigation, part 1 (PDF)](09-web-navigation1/css-for-navigation.pdf)
@@ -96,7 +96,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, February 17, 2020**
-    - [ ] Lab 8: CSS for Navigation
+    - [ ] [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: February 24)
 
 - **Tuesday, February 18, 2020**
   - Lecture 10: Website Navigation, part 2
