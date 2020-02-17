@@ -48,10 +48,11 @@ The following was demonstrated in the previous lecture.  Refer to your lecture n
   - In each list item, create an anchor tag. For the HREF of each anchor tag, you can simply use the `"#"` placeholder for now. 
   - For the text in each anchor tag use the same words as your **H2**s in the document.  (There should be at least four.)  For example, (using the professor’s Shakespeare demo) you would have something like this:
     - *About Shakespeare*
-        - *Early Years*
-        - *Life*
-        - *Plays*
-      - *Note: if your H2s have a lot of words in them, you can shorten them to one or two words*
+    - *Early Years*
+    - *Life*
+    - *Plays*
+
+  *Note: if your H2s have a lot of words in them, you can shorten them to one or two words*
       
 - [ ] **Edit the HREF attributes in each anchor tag** <br>Change the "#" in each anchor tag to an appropriate file name  (you’ll create the files later); base the file names on the four **H2**s in your ARTICLE and ASIDE.  
 
