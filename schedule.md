@@ -94,16 +94,14 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Basic Navigation Demo File (ZIP)](09-web-navigation1/demo_basic-navigation.zip)
 
 <hr>
-
 - **Monday, February 17, 2020**
     - [ ] [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: February 24)
+- **Tuesday, February 18, 2020** Lecture 10: Website Navigation, part 2
 
-- **Tuesday, February 18, 2020**
-  - Lecture 10: Website Navigation, part 2
-
+  - [CSS for Navigation, part 2 (PDF)](10-web-navigation2/css-positioning.pdf)
+  - [Advanced Navigation Demo Files (ZIP)](10-web-navigation2/demo_advanced-navigation.zip)
 - **Wednesday, February 19, 2020**
   - [ ] OPEN LAB (staffed)
-
 - **Thursday, February 20, 2020**
   - Lecture 11: Images for the Web
 

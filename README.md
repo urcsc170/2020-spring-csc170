@@ -6,9 +6,9 @@ Introduction to Web Development
 
 ## Current topic
 
-- Thursday, February 13 **Lecture 9: Website Navigation, part 1**
-  - [CSS for Navigation, part 1 (PDF)](09-web-navigation1/css-for-navigation.pdf)
-  - [Basic Navigation Demo File (ZIP)](09-web-navigation1/demo_basic-navigation.zip)
+- Tuesday, February 18 **Website Navigation, part 2**
+  - [CSS for Navigation, part 2 (PDF)](10-web-navigation2/css-positioning.pdf)
+  - [Advanced Navigation Demo Files (ZIP)](10-web-navigation2/demo_advanced-navigation.zip)
 
 ## Current assignment(s)
 
