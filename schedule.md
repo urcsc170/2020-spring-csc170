@@ -56,7 +56,6 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, February 3, 2020**
-  
   - [x] [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) (due: February 5)
 - **Tuesday, February 4, 2020** Lecture 6: Webpage Presentation, part 2
   - [CSS for Formatting, part 2 (PDF)](06-web-presentation2/selctors-box-model-floats.pdf) - selectors, box model, floats
@@ -94,16 +93,19 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Basic Navigation Demo File (ZIP)](09-web-navigation1/demo_basic-navigation.zip)
 
 <hr>
+
 - **Monday, February 17, 2020**
-    - [ ] [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: February 24)
+    - [x] [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: February 24)
 - **Tuesday, February 18, 2020** Lecture 10: Website Navigation, part 2
 
   - [CSS for Navigation, part 2 (PDF)](10-web-navigation2/css-positioning.pdf)
   - [Advanced Navigation Demo Files (ZIP)](10-web-navigation2/demo_advanced-navigation.zip)
 - **Wednesday, February 19, 2020**
-  - [ ] OPEN LAB (staffed)
-- **Thursday, February 20, 2020**
-  - Lecture 11: Images for the Web
+  - [x] OPEN LAB (staffed)
+- **Thursday, February 20, 2020** Lecture 11: Images for the Web
+  
+  - [Advertisement for CSC 174 ...again (PDF)](11-images-for-the-web/summer-web-cluster-flyer.pdf) ...tell your friends!
+  - [Images for the Web (PDF)](11-images-for-the-web/images-for-the-web.pdf)
 
 <hr>
 

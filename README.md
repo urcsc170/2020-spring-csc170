@@ -6,9 +6,9 @@ Introduction to Web Development
 
 ## Current topic
 
-- Tuesday, February 18 **Website Navigation, part 2**
-  - [CSS for Navigation, part 2 (PDF)](10-web-navigation2/css-positioning.pdf)
-  - [Advanced Navigation Demo Files (ZIP)](10-web-navigation2/demo_advanced-navigation.zip)
+- Thursday, February 20 **Images for the Web**
+  - [Advertisement for CSC 174 ...again (PDF)](11-images-for-the-web/summer-web-cluster-flyer.pdf) ...tell your friends!
+  - [Images for the Web (PDF)](11-images-for-the-web/images-for-the-web.pdf)
 
 ## Current assignment(s)
 
