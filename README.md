@@ -12,7 +12,7 @@ Introduction to Web Development
 
 ## Current assignment(s)
 
-- Monday, February 17
-  - [ ] [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: February 24)
+- Monday, February 23
+  - [ ] [Lab 9: Background Images](lab09-background-images/instructions.md) (due: February 26)
 - Wednesday, January 30:
   - [ ] [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: February 25)

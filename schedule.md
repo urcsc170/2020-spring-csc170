@@ -110,7 +110,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, February 24, 2020**
-    - [ ] Lab 9: Images for the Web
+    - [ ] [Lab 9: Background Images](lab09-background-images/instructions.md) (due: February 26)
 
 - **Tuesday, February 25, 2020**
   - Lecture 12: Website Construction, part 1; Project 2 Review; 
