@@ -111,13 +111,12 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Monday, February 24, 2020**
     - [ ] [Lab 9: Background Images](lab09-background-images/instructions.md) (due: February 26)
+- **Tuesday, February 25, 2020** Lecture 12: Website Construction, part 1; Project 2 Review
 
-- **Tuesday, February 25, 2020**
-  - Lecture 12: Website Construction, part 1; Project 2 Review; 
-
+  - [Website Construction, Part 1 (PDF)](12-web-construction1/website-construction1.pdf)
+  - [ ] Assignment: [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: March 26)
 - **Wednesday, February 26, 2020**
     - [ ] Lab 10: PHP Includes
-
 - **Thursday, February 27, 2020**
   - [x] Lecture 13: CANCELLED
 

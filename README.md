@@ -6,13 +6,12 @@ Introduction to Web Development
 
 ## Current topic
 
-- Thursday, February 20 **Images for the Web**
-  - [Advertisement for CSC 174 ...again (PDF)](11-images-for-the-web/summer-web-cluster-flyer.pdf) ...tell your friends!
-  - [Images for the Web (PDF)](11-images-for-the-web/images-for-the-web.pdf)
+- Tuesday, February 25 **Website Construction, part 1; Project 2 Review**
+  - [Website Construction, Part 1 (PDF)](12-web-construction1/website-construction1.pdf)
 
 ## Current assignment(s)
 
+- Tuesday, February 25
+  - [ ] Assignment: [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: March 26)
 - Monday, February 23
   - [ ] [Lab 9: Background Images](lab09-background-images/instructions.md) (due: February 26)
-- Wednesday, January 30:
-  - [ ] [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: February 25)
