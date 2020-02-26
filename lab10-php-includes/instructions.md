@@ -26,22 +26,8 @@ The rest of this lab requires you to juggle a lot of open files while copying an
 
 ## Step 4: Replace the header HTML with a PHP Include
 
-- Pick any one of your **.php** files EXCEPT the **start.php** file.  *Copy* the following code to your computer's clipboard...
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Lab 9 – Shakespeare</title>
-	<link rel="stylesheet" href="css/styles.css">  
-	<link rel="stylesheet" href="css/navigation.css">
-</head>
-```
-
-...and paste it into the file: **html-top.php**
-
-*(Don't use your start.php file because you removed the link to the "navigation.css" file in Lab 9!)*
+- [ ] Pick any one of your **.php** files EXCEPT the **start.php** file.  Copy the **doctype** and **head** and paste it into the file: **html-top.php**
+  - *(Don't use your start.php file because you removed the link to the "navigation.css" file in Lab 9!)*
 
 - [ ] Edit the code in the **html-top.php** file – update the lab number: "**Lab 9 - ...**" to "**Lab 10 - ...**"
 - [ ] In ALL five PHP files (that's the four webpages, plus start.php) replace the top part (the doctype down to the closing HEAD tag) and insert a PHP Include statement that points to the **html-top.php** file 
@@ -52,22 +38,8 @@ The rest of this lab requires you to juggle a lot of open files while copying an
 
 Note: doing this step will break the "is-current" menu highlighter. That's okay. We'll fix it in a later lab assignment.
 
-- [ ] In any of your **.php** files except the **start.php** file, *copy* your menu code to your computer's clipboard.  The code will look like this except it'll refer to *your* web pages...
-
-```html
-<nav class="menu">
-	<ul>
-		<li><a class="is-current" href="cats.html">Cats</a></li>
-		<li><a href="dogs.html">Dogs</a></li>
-		<li><a href="fish.html">Fish</a></li>
-		<li><a href="bears.html">Bears</a></li>
-	</ul>
-</nav>
-```
-
-...and paste your code into the file: **nav.php**
-
-*(You can't use your start.php file because it doesn't have a NAV element.  You removed it in Lab 9!)*
+- [ ] In any of your **.php** files except the **start.php** file, copy your **nav** then paste it into the file: **nav.php*
+  - *(You can't use your start.php file because it doesn't have a NAV element.  You removed it in Lab 9!)*
 
 - [ ] Edit the code in the **nav.php** file: 
   - Replace every instance of **.html** with **.php**
