@@ -116,7 +116,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Website Construction, Part 1 (PDF)](12-web-construction1/website-construction1.pdf)
   - [ ] Assignment: [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: March 26)
 - **Wednesday, February 26, 2020**
-    - [ ] Lab 10: PHP Includes
+    - [ ] [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: March 4, one week!)
 - **Thursday, February 27, 2020**
   - [x] Lecture 13: CANCELLED
 

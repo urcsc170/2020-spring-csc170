@@ -11,6 +11,8 @@ Introduction to Web Development
 
 ## Current assignment(s)
 
+- Wednesday, February 26
+  - [ ] [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: March 4, one week!)
 - Tuesday, February 25
   - [ ] Assignment: [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: March 26)
 - Monday, February 23
