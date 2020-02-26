@@ -26,7 +26,7 @@ The rest of this lab requires you to juggle a lot of open files while copying an
 
 ## Step 4: Replace the header HTML with a PHP Include
 
-- [ ] Pick any one of your **.php** files EXCEPT the **start.php** file.  Copy the **doctype** and **head** and paste it into the file: **html-top.php**
+- [ ] Pick any one of your **.php** files EXCEPT the **start.php** file.  Copy all the code from the **doctype down to the closing head tag** and paste it into the file: **html-top.php**
   - *(Don't use your start.php file because you removed the link to the "navigation.css" file in Lab 9!)*
 
 - [ ] Edit the code in the **html-top.php** file – update the lab number: "**Lab 9 - ...**" to "**Lab 10 - ...**"
@@ -36,9 +36,9 @@ The rest of this lab requires you to juggle a lot of open files while copying an
 
 ## Step 5: Replace the menu HTML with a PHP "include"
 
-Note: doing this step will break the "is-current" menu highlighter. That's okay. We'll fix it in a later lab assignment.
+Note: doing this next step will break the "is-current" menu highlighter. That's okay. We'll fix it in a later lab assignment.
 
-- [ ] In any of your **.php** files except the **start.php** file, copy your **nav** then paste it into the file: **nav.php*
+- [ ] In any of your **.php** files except the **start.php** file, copy your entire **nav** then paste it into the file: **nav.php**
   - *(You can't use your start.php file because it doesn't have a NAV element.  You removed it in Lab 9!)*
 
 - [ ] Edit the code in the **nav.php** file: 
