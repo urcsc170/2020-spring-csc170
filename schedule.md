@@ -123,16 +123,14 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, March 2, 2020**
-  - [ ] OPEN LAB (staffed)
-
-- **Tuesday, March 3, 2020**
-  - Lecture 14: Midterm Review
-
+  - [x] OPEN LAB (staffed)
+- **Tuesday, March 3, 2020** Lecture 14: Midterm Review
 - **Wednesday, March 4, 2020**
-    - [ ] Lab: MIDTERM EXAM
+    - [x] Lab: MIDTERM EXAM
+- **Thursday, March 5, 2020** Lecture 15: WAMP and MAMP Introduction
 
-- **Thursday, March 5, 2020**
-  - Lecture 15: WAMP and MAMP Introduction
+  - [LAMP, WAMP, and MAMP (PDF)](15-lamp-wamp-mamp/lamp-wamp-mamp.pdf)
+  - [*MAMP* and *MAMP for Windows* (website)](https://www.mamp.info/)
 
 <hr>
 

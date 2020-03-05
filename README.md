@@ -6,14 +6,13 @@ Introduction to Web Development
 
 ## Current topic
 
-- Tuesday, February 25 **Website Construction, part 1; Project 2 Review**
-  - [Website Construction, Part 1 (PDF)](12-web-construction1/website-construction1.pdf)
+- Thursday, March 5 **WAMP and MAMP Introduction**
+  - [LAMP, WAMP, and MAMP (PDF)](15-lamp-wamp-mamp/lamp-wamp-mamp.pdf)
+  - [*MAMP* and *MAMP for Windows* (website)](https://www.mamp.info/)
 
 ## Current assignment(s)
 
-- Wednesday, February 26
-  - [ ] [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: March 4, one week!)
 - Tuesday, February 25
   - [ ] Assignment: [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: March 26)
-- Monday, February 23
-  - [ ] [Lab 9: Background Images](lab09-background-images/instructions.md) (due: February 26)
+  - Lab 11: Localhost (coming soon ...after Spring Break)
+
