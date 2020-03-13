@@ -18,9 +18,10 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 
 ### Office Hours
 - **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc170.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor, TAs, and other students will answer as quickly as possible
-- <s>**Regular Office Hours:** for *non-technical help*, the professor will be in his office in **Wegmans Hall, room 2015**:</s>
+- <s>Regular Office Hours: for non-technical help, the professor will be in his office in Wegmans Hall, room 2015:</s>
   - <s>Mondays, 2:00 - 3:00 PM</s>
-  - <s>Wednesdays, 11:00 AM - 12:00 PM</s><br>**NEW: virtual office hours only**
+  - <s>Wednesdays, 11:00 AM - 12:00 PM</s>
+  - **NEW: virtual office hours only**
 
 ### Communication
 
@@ -60,9 +61,9 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Lab Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs. | <s>**30%**</s> **35%**<br>Each lab assignment will be worth about 2% of the overall grade |
-| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | <s>**40%**</s> **45%**<br/>Project 1: <s>10%</s> **11%** <br>Project 2: <s>15%</s> **17%**<br>Project 3: <s>15%</s> **17%** |
-| **Exam<s>s</s>**<br><s>There are two exams: a midterm and a final. The final exam is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.</s><br><s>NOTE: the Final Exam is administered in the labs during the regular semester (not during exam week).</s>  See [the course schedule](schedule.md) for exact exam dates and locations. | <s>**30%**</s> **20%**<br>Midterm exam: <s>15%</s> 20%<br><s>Final exam: 15%</s> |
+| **Lab Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs. | <s>30%</s> **35%**<br>Each lab assignment will be worth about 2% of the overall grade |
+| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | <s>40%</s> **45%**<br/>Project 1: <s>10%</s> **11%** <br>Project 2: <s>15%</s> **17%**<br>Project 3: <s>15%</s> **17%** |
+| **Exam<s>s</s>**<br><s>There are two exams: a midterm and a final. The final exam is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.</s><br><s>NOTE: the Final Exam is administered in the labs during the regular semester (not during exam week).</s>  See [the course schedule](schedule.md) for exact exam dates and locations. | <s>30%</s> **20%**<br>Midterm exam: <s>15%</s> 20%<br><s>Final exam: 15%</s> |
 
 
 
