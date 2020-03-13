@@ -149,30 +149,30 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, March 16, 2020**
-    - [ ] Lab 11: Localhost
+    - [ ] Extended Spring Break
 
 - **Tuesday, March 17, 2020**
-  - Lecture 16: HTML Forms, part 1
+  - Extended Spring Break
 
 - **Wednesday, March 18, 2020**
-    - [ ] Lab 12: HTML Forms, part 1
+    - [ ] Lab 11: Localhost
 
 - **Thursday, March 19, 2020**
-  - Lecture 17: HTML Forms, part 2
+  - Lecture 17: HTML Forms, part 1
 
 <hr>
 
 - **Monday, March 23, 2020**
-    - [ ] Lab 13: HTML Forms, part 2
+    - [ ] Lab 12: HTML Forms, part 1
 
 - **Tuesday, March 24, 2020**
-  - Lecture 18: Webpage Behavior, part 1
+  - Lecture 18: HTML Forms, part 2
 
 - **Wednesday, March 25, 2020**
-    - [ ] Lab 14: JavaScript
+    - [ ] Lab 13: HTML Forms, part 2
 
 - **Thursday, March 26, 2020**
-  - Lecture 19: Webpage Behavior, part 2; Project 3 Review
+  - Lecture 19: Webpage Behavior, part 1
 
 <hr>
 
@@ -180,65 +180,65 @@ This schedule is subject to modification throughout the semester. Always check w
   - [ ] OPEN LAB (staffed)
 
 - **Tuesday, March 31, 2020**
-  - Lecture 20: JavaScript Libraries and Plugins
+  - Lecture 20: Project 3 Instructions
 
 - **Wednesday, April 1, 2020**
-    - [ ] Lab 15: JavaScript Libraries and Plugins
+    - [ ] OPEN LAB (staffed)
 
 - **Thursday, April 2, 2020**
-  - Lecture 21: Website Construction, part 2
+  - Lecture 21: Webpage Behavior, part 2
 
 <hr>
 
 - **Monday, April 6, 2020**
-    - [ ] Lab 16: Menu Highlighter
+    - [ ] Lab 14: JavaScript
 
 - **Tuesday, April 7, 2020**
-  - Lecture 22: Mobile Design, part 1
+  - Lecture 22: JavaScript Libraries and Plugins
 
 - **Wednesday, April 8, 2020**
-  - [ ] OPEN LAB (staffed)
+  - [ ] Lab 15: JavaScript Libraries and Plugins
 
 - **Thursday, April 9, 2020**
-  - Lecture 23: Mobile Design, part 2
+  - Lecture 23: JavaScript Libraries and Plugins, part 2
 
 <hr>
 
 - **Monday, April 13, 2020**
-    - [ ] Lab 17: Mobile Design
+    - [ ] OPEN LAB (staffed)
 
 - **Tuesday, April 14, 2020**
-  - Lecture 24: Driving Traffic to Websites, part 1
+  - Lecture 24: Website Construction, part 2
 
 - **Wednesday, April 15, 2020**
-  - [ ] OPEN LAB (staffed)
+  - [ ] Lab 16: Menu Highlighter
 
 - **Thursday, April 16, 2020**
-  - Lecture 25: Driving Traffic to Websites, part 2
+  - Lecture 25: Mobile Design, part 1
 
 <hr>
 
 - **Monday, April 20, 2020**
-    - [ ] Lab 18: Search Engine Optimization
+    - [ ] Lab 17: Mobile Design
 
 - **Tuesday, April 21, 2020**
-  - Lecture 26: Master Class (optional)
+  - Lecture 26: Mobile Design, part 2
 
 - **Wednesday, April 22, 2020**
   - [ ] OPEN LAB (staffed)
 
 - **Thursday, April 23, 2020**
-  - Lecture 27: Final review
+  - Lecture 27: Driving Traffic to Websites, part 1
 
 <hr>
 
 - **Monday, April 27, 2020**
-    - [ ] Lab: FINAL EXAM
+    - [ ] Lab 18: Search Engine Optimization
 
 - **Tuesday, April 28, 2020**
-  - [x] CANCELLED
+  - [ ] Lecture 28: Driving Traffic to Websites, part 2
 
 - **Wednesday, April 29, 2020**
-  - [x] CANCELLED
+  - [ ] OPEN LAB (staffed)
 
 *Note: there is nothing scheduled in Exam Week for CSC 170 (the exams are in the regularly scheduled labs)*

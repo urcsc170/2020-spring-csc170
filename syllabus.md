@@ -1,5 +1,7 @@
 # Course Syllabus: CSC 170 - Introduction to Web Development
 
+*Updated: Friday, March 13, 2020*
+
 An introduction to Internet and Web technologies. Topics include Internet transport protocols, HTML5 and CSS3, Web page design and Website publishing. Emphasis is placed on fundamentals, design concepts and industry standards. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
 
 - CRN: **51174**
@@ -16,9 +18,9 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 
 ### Office Hours
 - **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc170.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor, TAs, and other students will answer as quickly as possible
-- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in **Wegmans Hall, room 2015**:
-  - Mondays, 2:00 - 3:00 PM
-  - Wednesdays, 11:00 AM - 12:00 PM
+- <s>**Regular Office Hours:** for *non-technical help*, the professor will be in his office in **Wegmans Hall, room 2015**:</s>
+  - <s>Mondays, 2:00 - 3:00 PM</s>
+  - <s>Wednesdays, 11:00 AM - 12:00 PM</s><br>**NEW: virtual office hours only**
 
 ### Communication
 
@@ -58,21 +60,31 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Lab Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs. | **30%**<br>Each lab assignment will be worth about 2% of the overall grade |
-| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **40%**<br>Project 1: 10% <br>Project 2: 15%<br>Project 3: 15% |
-| **Exams**<br>There are two exams: a midterm and a final. The final exam is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.<br>NOTE: the Final Exam is administered in the labs during the regular semester (not during exam week).  See [the course schedule](schedule.md) for exact exam dates and locations. | **30%**<br>Midterm exam: 15%<br>Final exam: 15%              |
+| **Lab Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs. | <s>**30%**</s> **35%**<br>Each lab assignment will be worth about 2% of the overall grade |
+| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | <s>**40%**</s> **45%**<br/>Project 1: <s>10%</s> **11%** <br>Project 2: <s>15%</s> **17%**<br>Project 3: <s>15%</s> **17%** |
+| **Exam<s>s</s>**<br><s>There are two exams: a midterm and a final. The final exam is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.</s><br><s>NOTE: the Final Exam is administered in the labs during the regular semester (not during exam week).</s>  See [the course schedule](schedule.md) for exact exam dates and locations. | <s>**30%**</s> **20%**<br>Midterm exam: <s>15%</s> 20%<br><s>Final exam: 15%</s> |
 
 
 
 ## Labs and Project Assignments
 **Assignments** are made available via Blackboard after most lectures and can be completed in the lab room or independently on one's own Internet-connected computer (Mac or PC).  However...
 
-**Help:** THIS IS IMPORTANT --> to get help on any lab assignment or project, students must go to a scheduled lab session and find one of the TAs and ask for help.
+**Help:** THIS IS IMPORTANT --> to get help on any lab assignment or project, <s>students must go to a scheduled lab session and find one of the TAs and ask for help.</s> 
+
+**New: how to get help...**
+
+1. **FTP (upload) what you've done so far to your account on the class web server using Cyberduck (Mac) or WinSCP (PC).**  
+
+2. **Check what you uploaded to the server in your web browser and copy the URL.**
+
+3. **Go to the #help channel in Slack and create a post. Ask a SPECIFIC question and paste the URL.**
+
+**The TAs or I (or another student) will *start a thread* on your post to answer your question.**
 
 | **Lab**    | **Day & Time**<br>Location                                   | **Teaching Assistants**                                      |                                                              |                                                              |                                                             |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- |
-| CRN: 51195 | Mondays and Wednesdays<br/>9:00 to 10:15 AM<br><br>Gavett 208 | Robert<br>Petrosyan<br>![Robert Petrosyan](media\robert-petrosyan.jpg) | Dominique<br>Dorvil<br/>![Dominique Dorvil](media\dominique-dorvil.jpg) | Christabel<br/>Ntete Kirenga<br>![Christabel Ntete Kirenga](media\christabel-ntete-kirenga.jpg) | Liam<br/>Gousios<br>![Liam Gousios](media\liam-gousios.jpg) |
-| CRN: 51207 | Mondays and Wednesdays<br/>3:25 to 4:40 PM<br/><br/>Gavett 208 | Joshua<br/>Dennis<br/>![Joshua Dennis](media\joshua-dennis.jpg) | Ryan<br>Lin<br>![Ryan Lin](media\ryan-lin.jpg)               | Lingling<br>Li<br>![Lingling Li](media\lingling-li.jpg)      | Emma<br/>Mantel <br>![Emma Mantel](media\emma-mantel.jpg)   |
+| CRN: 51195 | Mondays and Wednesdays<br/>9:00 to 10:15 AM EST<br><br><s>Gavett 208</s> | Robert<br>Petrosyan<br>![Robert Petrosyan](media\robert-petrosyan.jpg) | Dominique<br>Dorvil<br/>![Dominique Dorvil](media\dominique-dorvil.jpg) | Christabel<br/>Ntete Kirenga<br>![Christabel Ntete Kirenga](media\christabel-ntete-kirenga.jpg) | Liam<br/>Gousios<br>![Liam Gousios](media\liam-gousios.jpg) |
+| CRN: 51207 | Mondays and Wednesdays<br/>3:25 to 4:40 PM EST<br/><br/><s>Gavett 208</s> | Joshua<br/>Dennis<br/>![Joshua Dennis](media\joshua-dennis.jpg) | Ryan<br>Lin<br>![Ryan Lin](media\ryan-lin.jpg)               | Lingling<br>Li<br>![Lingling Li](media\lingling-li.jpg)      | Emma<br/>Mantel <br>![Emma Mantel](media\emma-mantel.jpg)   |
 
 **Note:** throughout the semester, the assignments build on each other, meaning: students cannot complete one without successfully finishing the previous.  So, success in this course requires students to turn-in assignments on-time and in the right order.
 

@@ -1,6 +1,6 @@
 # Project 2: Formatting and Layout
 
-*Due: Thursday, March 26, 2020*
+*Due: <s>Thursday, March 26, 2020</s>* **UPDATED: Tuesday, March 31**
 
 In this assignment, you will work with the HTML document you created in Project 1 and style it using CSS. 
 The result will be a **formatted document** that uses some version of a **columnar layout**, i.e. some side-by-side content
