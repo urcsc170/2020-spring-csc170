@@ -31,10 +31,10 @@ If you are okay installing a software on your personal computer (recommended):
 
 - [ ] Start the **MAMP** or **MAMP for Windows** application
 
-- **Windows users:** if you experience the *Apache server starting then stopping* issue (later in these instructions), try this:
+- **Windows users:** if you experience the *Apache server starting then stopping* issue, try this:
 
   - Launch the MAMP for Windows application
-  - Go into MAMP | **Preferences**
+  - Go into **Preferences**
   - Select the PHP section
   - Change the "Standard Version" to: 7.2.14
   - Click okay and wait for the servers to re-start
