@@ -11,7 +11,7 @@ The point of this lab is to simply demonstrate that you can setup and work with 
    - Note: you can use a different web stack but the Professor and TAs are most familiar with the "MAMP" product.
    - If you can get any web stack to work on your own computer and complete this lab, you'll get some extra credit that'll be applied to your overall lab grade.
    - If you can't get any web stack to work on your own computer, no matter.  The back-up option, below, is what you can use for the rest of the semester.
-2. <s>Use MAMP for Windows which is installed on the computers in any of the labs on campus</s>\....oops
+2. <s>Use MAMP for Windows which is installed on the computers in any of the labs on campus</s>
 3. BACKUP OPTION: Work blindly on your own computer and then FTP (upload) your files to the class web server to check if they're working correctly
    - This is a slower, more cumbersome process but it works without any new software on your personal computer.
 
