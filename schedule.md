@@ -49,7 +49,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - [x] [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Monday, February 3)
 - **Thursday, January 30, 2020** Lecture 5: Webpage Presentation, part 1; and Project 1 Instructions
   - [Project 1 Information (PDF)](05-web-presentation1/project1.pdf)
-  - [ ] Assignment: [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: February 25)
+  - [x] Assignment: [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: February 25)
   - [CSS for Formatting, part 1 (PDF)](05-web-presentation1/css-for-formatting1.pdf)
   - [Color Keywords (webpage)](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) ...good reference
 
@@ -110,13 +110,13 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, February 24, 2020**
-    - [ ] [Lab 9: Background Images](lab09-background-images/instructions.md) (due: February 26)
+    - [x] [Lab 9: Background Images](lab09-background-images/instructions.md) (due: February 26)
 - **Tuesday, February 25, 2020** Lecture 12: Website Construction, part 1; Project 2 Review
 
   - [Website Construction, Part 1 (PDF)](12-web-construction1/website-construction1.pdf)
-  - [ ] Assignment: [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: March 26)
+  - [ ] [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: <s>March 26</s> *updated (again):* April 2)
 - **Wednesday, February 26, 2020**
-    - [ ] [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: March 4, one week!)
+    - [x] [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: March 4, one week!)
 - **Thursday, February 27, 2020**
   - [x] Lecture 13: CANCELLED
 
@@ -128,8 +128,7 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Wednesday, March 4, 2020**
     - [x] Lab: MIDTERM EXAM
 - **Thursday, March 5, 2020** Lecture 15: WAMP and MAMP Introduction
-
-  - [LAMP, WAMP, and MAMP (PDF)](15-lamp-wamp-mamp/lamp-wamp-mamp.pdf)
+- [LAMP, WAMP, and MAMP (PDF)](15-lamp-wamp-mamp/lamp-wamp-mamp.pdf)
   - [*MAMP* and *MAMP for Windows* (website)](https://www.mamp.info/)
 
 <hr>
@@ -150,38 +149,38 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Monday, March 16, 2020**
     - [ ] Extended Spring Break
-
 - **Tuesday, March 17, 2020**
   - Extended Spring Break
-
 - **Wednesday, March 18, 2020**
-    - [ ] Lab 11: Localhost
-
+    
+- Extended Spring Break 2
 - **Thursday, March 19, 2020**
-  - Lecture 17: HTML Forms, part 1
+  
+  - Extended Spring Break 2
 
 <hr>
 
 - **Monday, March 23, 2020**
-    - [ ] Lab 12: HTML Forms, part 1
+    - [ ] [Lab 11: Localhost](lab11-localhost/instructions.md) (due: March 25)
 
 - **Tuesday, March 24, 2020**
-  - Lecture 18: HTML Forms, part 2
+  - Lecture 18: HTML Forms, part 1
 
 - **Wednesday, March 25, 2020**
-    - [ ] Lab 13: HTML Forms, part 2
+    - [ ] Lab 12: HTML Forms, part 1
 
 - **Thursday, March 26, 2020**
-  - Lecture 19: Webpage Behavior, part 1
+  - Lecture 19: HTML Forms, part 2
 
 <hr>
 
 - **Monday, March 30, 2020**
-  - [ ] OPEN LAB (staffed)
+  - [ ] Lab 13: HTML Forms, part 2
 
 - **Tuesday, March 31, 2020**
-  - Lecture 20: Project 3 Instructions
-
+  - Lecture 20: Webpage Behavior, part 1; Project 3 Instructions
+  - NOTE: the start of Project 3 will overlap with Project 2, due Thursday, April 2
+  
 - **Wednesday, April 1, 2020**
     - [ ] OPEN LAB (staffed)
 

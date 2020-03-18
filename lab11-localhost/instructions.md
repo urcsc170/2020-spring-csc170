@@ -1,21 +1,22 @@
-# Lab 11: Localhost (optional)
-*Due: Monday, March 23, 2020*
+# Lab 11: Localhost (optional - extra credit)
+*Due: Wednesday, March 25, 2020*
 
 The point of this lab is to simply demonstrate that you can setup and work with a "localhost" on your own computer. 
-
-*Some of you are already working with your localhost successfully on your own computer so for you, you can jump to **Step 3: Create a Demonstration***
 
 **NEW:** Given the situation at the University with the Coronavirus, the three options for working with *PHP Includes* are down to two now:
 
 1. RECOMMENDED: Install a "web stack" like **MAMP** or **MAMP for Windows** on your own computer
-   - Note: you can use a different web stack but the Professor and TAs are most familiar with the "MAMP" product.
-   - If you can get any web stack to work on your own computer and complete this lab, you'll get some extra credit that'll be applied to your overall lab grade.
-   - If you can't get any web stack to work on your own computer, no matter.  The back-up option, below, is what you can use for the rest of the semester.
 2. <s>Use MAMP for Windows which is installed on the computers in any of the labs on campus</s>
 3. BACKUP OPTION: Work blindly on your own computer and then FTP (upload) your files to the class web server to check if they're working correctly
-   - This is a slower, more cumbersome process but it works without any new software on your personal computer.
 
-**NEW:** This lab is now "extra credit" because the software you're required to install on your own computer may or may not work on your computer for lots of reasons.  If you can't get it to work, it won't count against your grade, and you can skip this lab.
+**NEW:** This lab is now "extra credit" because the software you're required to install on your own computer may or may not work on your computer for lots of reasons.  If you can't get it to work, it won't count against your grade.
+
+Regarding installation of **MAMP** or **MAMP for Windows**:
+
+- You can use <u>any</u> web stack available in the industry today, not just *MAMP* or *MAMP for Windows*, but the Professor and TAs are most familiar with the *MAMP* products.
+- If you can't get any web stack to work on your own computer, no matter.  The back-up option (#3, above) is what you can use for the rest of the semester.
+
+*NOTE: Some of you are already working with your localhost successfully on your own computer. If so, you can jump to **Step 3: Create a Demonstration***
 
 ## Step 1: Installation
 
@@ -23,11 +24,13 @@ If you are okay installing a software on your personal computer (recommended):
 
 - Pick a WAMP or MAMP (or LAMP?) software bundle - options were presented in the recent lecture
   - Recommended: [mamp.info](https://www.mamp.info/) ...but be sure to avoid "MAMP Pro"
-- Download and install the software onto your computer as shown in the recent lecture
+- Download and install the software onto your computer
 
-*Note: the following instructions assume you installed **MAMP** or **MAMP for Windows**. If you're using a different stack, you can still complete this lab. Jump to **Step 3: Create a Demonstration***
+*Note: the following step assumse you installed **MAMP** or **MAMP for Windows**. If you're using a different stack, you can still complete this lab. Jump to **Step 3: Create a Demonstration***
 
 ## Step 2: Launch and Configure the Software
+
+*This step applies to MAMP or MAMP for Windows only.*
 
 - [ ] Start the **MAMP** or **MAMP for Windows** application
 
@@ -94,11 +97,13 @@ Then check your handiwork in your web browser.  Go to the URL: **localhost**
 
 You should see both the HTML page with the H1 **and** the lorem ipsum text
 
-If you just see the H1 **or** just the lorem ipsum text, then you did it wrong
+If you just see the H1 **or** just the lorem ipsum text, then you did it wrong.  Go back and figure it out and/or use our #help channel in Slack.
 
 - One more thing: open the *source view* of that webpage.  Notice that you'll see *no* PHP code!  You'll just see the combined HTML code like this...
 
 ![figure2](media/figure2.png)
+
+...that's important to remember!  The server (in this case, your computer) **compiles** the PHP code and performs the *Include* process <u>before</u> the page is served to the web browser (in a millisecond).  
 
 ## Step 4: Get Credit
 
@@ -106,8 +111,8 @@ If you just see the H1 **or** just the lorem ipsum text, then you did it wrong
 
 ![figure6](media\figure6.png)
 
-*Make sure the path of your folder and the URL in the web browser is clearly visible in the image*
+*Make sure the **path of your folder** and **the URL** in the web browser is clearly visible in the image*
 
-- [ ] Take a screenshot of your desktop and save the image (JPG, PNG ...it doesn't matter)
-- [ ] In our CSC 170 Blackboard section, in Lab 11, upload the image file of your desktop to receive EXTRA credit for this Lab.
+- [ ] **Take a screenshot** of your desktop and save the image (JPG, PNG ...it doesn't matter)
+- [ ] In our CSC 170 Blackboard section, in Lab 11, **upload the image file** of your desktop to receive EXTRA credit for this Lab.
 

@@ -12,7 +12,10 @@ Introduction to Web Development
 
 ## Current assignment(s)
 
-- Tuesday, February 25
-  - [ ] Assignment: [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: <s>March 26</s> *updated:* March 31)
-  - Lab 11: Localhost (coming soon ...after Spring Break)
+- Wednesday, March 18
+
+  - [ ] [Lab 11: Localhost](lab11-localhost/instructions.md) (due: March 23)
+  - [ ] [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: <s>March 26</s> *updated (again):* April 2)
+
+  
 
