@@ -111,7 +111,7 @@ If you just see the H1 **or** just the lorem ipsum text, then you did it wrong. 
 
 ![figure6](media\figure6.png)
 
-*Make sure the **path of your folder** and **the URL** in the web browser is clearly visible in the image*
+*Make sure the **path of your folder**, **the two files**, and **the URL** in the web browser is clearly visible in the image*
 
 - [ ] **Take a screenshot** of your desktop and save the image (JPG, PNG ...it doesn't matter)
 - [ ] In our CSC 170 Blackboard section, in Lab 11, **upload the image file** of your desktop to receive EXTRA credit for this Lab.
