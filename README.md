@@ -7,7 +7,7 @@ Introduction to Web Development
 ## Current topic
 
 - Tuesday, March 24 **HTML Forms, part 1**
-  - [Lecture (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa028007-30f9-4355-9a38-ab8801563f30)
+  - [Lecture (Panopto 1:06:58)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa028007-30f9-4355-9a38-ab8801563f30)
     - There is a mistake in the lecture video. When you hit the mistake, simply open another web browser tab or window and follow along as I describe a few things in caniuse.com...
     - The mistake starts at time stamp: **58:37** <br>At that point, go to this URL in another tab/window: [https://caniuse.com/#feat=input-datetime](https://caniuse.com/#feat=input-datetime)
     - Then at time stamp: **1:00:45** go to: [https://caniuse.com/#search=email](https://caniuse.com/#search=email)

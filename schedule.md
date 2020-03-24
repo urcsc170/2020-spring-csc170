@@ -165,7 +165,7 @@ This schedule is subject to modification throughout the semester. Always check w
     - [ ] [Lab 11: Localhost](lab11-localhost/instructions.md) (due: March 25)
 - **Tuesday, March 24, 2020** Lecture 18: HTML Forms, part 1
 
-  - [Lecture (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa028007-30f9-4355-9a38-ab8801563f30)
+  - [Lecture (Panopto 1:06:58)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa028007-30f9-4355-9a38-ab8801563f30)
 
     - There is a mistake in the lecture video. When you hit the mistake, simply open another web browser tab or window and follow along as I describe a few things in caniuse.com...
     - The mistake starts at time stamp: **58:37** <br>At that point, go to this URL in another tab/window: [https://caniuse.com/#feat=input-datetime](https://caniuse.com/#feat=input-datetime)
