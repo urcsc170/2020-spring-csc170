@@ -22,7 +22,7 @@ Introduction to Web Development
 
 - Wednesday, March 18
 
-  - [ ] Lab 12: HTML Forms, part 1 (coming soon)
+  - [ ] [Lab 12: HTML Forms, part 1 (due: March 30)](lab12-html-forms1/instructions.md)
   - [ ] [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: <s>March 26</s> *updated (again):* April 2)
 
   

@@ -153,7 +153,6 @@ This schedule is subject to modification throughout the semester. Always check w
   - Extended Spring Break
 - **Wednesday, March 18, 2020**
   
-  
   - Extended Spring Break 2
 - **Thursday, March 19, 2020**
   
@@ -177,7 +176,7 @@ This schedule is subject to modification throughout the semester. Always check w
     - At **1:02:30**, the mistake ends.
   - [HTML Forms, part 1 (PDF)](18-html-forms1/html-forms1.pdf)
 - **Wednesday, March 25, 2020**
-    - [ ] Lab 12: HTML Forms, part 1
+    - [ ] [Lab 12: HTML Forms, part 1 (due: March 30)](lab12-html-forms1/instructions.md)
 - **Thursday, March 26, 2020**
   - Lecture 19: HTML Forms, part 2
 
