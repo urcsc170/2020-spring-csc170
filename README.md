@@ -6,6 +6,9 @@ Introduction to Web Development
 
 ## Current topic
 
+- Thursday, March 26 **HTML Forms, part 2**
+  - [Lecture (Panopto 28:04)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17a8c832-c474-4f00-b9bb-ab8a013e1965)
+  - [HTML Forms, part 2](19-html-forms2/html-forms2.pdf)
 - Tuesday, March 24 **HTML Forms, part 1**
   - [Lecture (Panopto 1:06:58)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa028007-30f9-4355-9a38-ab8801563f30)
     - There is a mistake in the lecture video. When you hit the mistake, simply open another web browser tab or window and follow along as I describe a few things in caniuse.com...

@@ -177,8 +177,10 @@ This schedule is subject to modification throughout the semester. Always check w
   - [HTML Forms, part 1 (PDF)](18-html-forms1/html-forms1.pdf)
 - **Wednesday, March 25, 2020**
     - [ ] [Lab 12: HTML Forms, part 1 (due: March 30)](lab12-html-forms1/instructions.md)
-- **Thursday, March 26, 2020**
-  - Lecture 19: HTML Forms, part 2
+- **Thursday, March 26, 2020** Lecture 19: HTML Forms, part 2
+
+  - [Lecture (Panopto 28:04)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17a8c832-c474-4f00-b9bb-ab8a013e1965)
+  - [HTML Forms, part 2](19-html-forms2/html-forms2.pdf)
 
 <hr>
 
