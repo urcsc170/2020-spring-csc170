@@ -7,7 +7,7 @@ Introduction to Web Development
 ## Current topic
 
 - Thursday, March 26 **HTML Forms, part 2**
-  - [Lecture (Panopto 28:04)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17a8c832-c474-4f00-b9bb-ab8a013e1965)
+  - [Lecture (Panopto 28:04)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1d0fca72-014c-42d8-bc24-ab8a015f15f2)
   - [HTML Forms, part 2](19-html-forms2/html-forms2.pdf)
 
 ## Current assignment(s)
