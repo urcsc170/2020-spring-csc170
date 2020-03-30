@@ -9,24 +9,13 @@ Introduction to Web Development
 - Thursday, March 26 **HTML Forms, part 2**
   - [Lecture (Panopto 28:04)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17a8c832-c474-4f00-b9bb-ab8a013e1965)
   - [HTML Forms, part 2](19-html-forms2/html-forms2.pdf)
-- Tuesday, March 24 **HTML Forms, part 1**
-  - [Lecture (Panopto 1:06:58)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa028007-30f9-4355-9a38-ab8801563f30)
-    - There is a mistake in the lecture video. When you hit the mistake, simply open another web browser tab or window and follow along as I describe a few things in caniuse.com...
-    - The mistake starts at time stamp: **58:37** <br>At that point, go to this URL in another tab/window: [https://caniuse.com/#feat=input-datetime](https://caniuse.com/#feat=input-datetime)
-    - Then at time stamp: **1:00:45** go to: [https://caniuse.com/#search=email](https://caniuse.com/#search=email)
-    - Then at time stamp: **1:01:06** go to: [https://caniuse.com/#search=url](https://caniuse.com/#search=url)
-    - Then at time stamp: **1:01:22** go to: [https://caniuse.com/#search=tel](https://caniuse.com/#search=tel)
-    - Then at time stamp: **1:02:05** go to: [https://caniuse.com/#search=datalist](https://caniuse.com/#search=datalist)
-    - Then at time stamp: **1:02:19** go to: [https://caniuse.com/#search=slider](https://caniuse.com/#search=slider)
-    - At **1:02:30**, the mistake ends.
-  - [HTML Forms, part 1 (PDF)](18-html-forms1/html-forms1.pdf)
 
 ## Current assignment(s)
 
+- Monday, March 30
+- [Lab 13: HTML Forms, part 2](lab13-html-forms2/instructions.md)  (due: Monday, April 6, 2020 - *one full week!*)
+    - [Lab 13 Instruction Video (Panopto 24:56)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9070c54e-ee77-430c-b49a-ab8d017a24ce) 
 - Wednesday, March 18
-
   - [ ] [Lab 12: HTML Forms, part 1 (due: March 30)](lab12-html-forms1/instructions.md)
-  - [ ] [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: <s>March 26</s> *updated (again):* April 2)
-
-  
+- [ ] [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: <s>March 26</s> *updated (again):* April 2)
 

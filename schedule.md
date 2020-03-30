@@ -185,7 +185,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, March 30, 2020**
-  - [ ] Lab 13: HTML Forms, part 2
+  - [ ] [Lab 13: HTML Forms, part 2 (due: Monday, April 6, 2020 - *one full week!*)](lab13-html-forms2/instructions.md)
 
 - **Tuesday, March 31, 2020**
   - Lecture 20: Webpage Behavior, part 1; Project 3 Instructions

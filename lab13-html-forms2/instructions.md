@@ -118,9 +118,10 @@ In this step you will use any of your existing webpages as a template for a new 
 
 - [ ] Download the ZIP'd file: [form_processing_script.zip](form_processing_script.zip) and extract the text file named, **FORM_PROCESSING_SCRIPT.txt** 
 - [ ] Copy all the text out of that file (113 lines) and paste it in the TOP of your **form-processor.php** file, *above* the PHP **inc/html-top.php** statement on Line 1
-- [ ] Fill-in the blanks in the PHP form processor as demonstrated in the [Lab 13 Instruction Video (Panopto x:xx)]() 
+- [ ] Fill-in the blanks in the PHP form processor as demonstrated in the [Lab 13 Instruction Video (Panopto 24:56)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9070c54e-ee77-430c-b49a-ab8d017a24ce) 
   - Make sure the superglobals match your `name=""` attributes from your HTML form exactly (remember: case sensitive!)
   - Create variable names for the incoming data that make sense; typically you can use the same word(s) you used in the superglobals, for example `$name = $_POST['name'];`
+  - Don't forget to add the value attributes for the checkboxes and radio buttons in the HTML form!
 - [ ] Save and close the **form-processor.php** file
 
 ## Step 6: Upload, Test and Report your Work
