@@ -6,11 +6,13 @@ Introduction to Web Development
 
 ## Current topic
 
-- Thursday, March 26 **HTML Forms, part 2**
-  - [Lecture (Panopto 28:04)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1d0fca72-014c-42d8-bc24-ab8a015f15f2)
-  - [HTML Forms, part 2](19-html-forms2/html-forms2.pdf)
+- Tuesday, March 31 **Webpage Behavior (JavaScript), part 1**
+  - [Lecture (Panopto 44:40)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=002e3c76-3d1e-43ef-8eb1-ab8f01524897)
+  - [Webpage Behavior (JavaScript), part 1](20-webpage-behavior1/webpage-behavior.pdf)
 
 ## Current assignment(s)
+
+- [ ] [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: <s>March 26</s> *updated (again):* April 2)
 
 - Monday, March 30
 
@@ -21,9 +23,3 @@ Introduction to Web Development
 - Wednesday, March 18
 
   - [ ] [Lab 12: HTML Forms, part 1 (due: March 30)](lab12-html-forms1/instructions.md)
-
-
-
-
-- [ ] [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: <s>March 26</s> *updated (again):* April 2)
-

@@ -187,15 +187,16 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Monday, March 30, 2020**
   - [ ] [Lab 13: HTML Forms, part 2 (due: Monday, April 6, 2020 - *one full week!*)](lab13-html-forms2/instructions.md)
 
-- **Tuesday, March 31, 2020**
-  - Lecture 20: Webpage Behavior, part 1; Project 3 Instructions
-  - NOTE: the start of Project 3 will overlap with Project 2, due Thursday, April 2
-  
+- **Tuesday, March 31, 2020** Lecture 20: Webpage Behavior, part 1
+  - [Lecture (Panopto 44:40)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=002e3c76-3d1e-43ef-8eb1-ab8f01524897)
+  - [Webpage Behavior (JavaScript), part 1](20-webpage-behavior1/webpage-behavior.pdf)
+
 - **Wednesday, April 1, 2020**
     - [ ] OPEN LAB (staffed)
 
 - **Thursday, April 2, 2020**
-  - Lecture 21: Webpage Behavior, part 2
+  - Lecture 21: Webpage Behavior, part 2; Project 3 Instructions
+    - NOTE: the start of Project 3 will overlap with Project 2, due Thursday, April 2
 
 <hr>
 
