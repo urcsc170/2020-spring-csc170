@@ -6,13 +6,15 @@ Introduction to Web Development
 
 ## Current topic
 
-- Tuesday, March 31 **Webpage Behavior (JavaScript), part 1**
-  - [Lecture (Panopto 44:40)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=002e3c76-3d1e-43ef-8eb1-ab8f01524897)
-  - [Webpage Behavior (JavaScript), part 1 (PDF)](20-webpage-behavior1/webpage-behavior.pdf)
+- Thursday, April 2 **Webpage Behavior (JavaScript), part 2** ...the Document Object Model (DOM)
+  - [Lecture: Document Object Model (Panopto 34:32)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=748e9581-2e33-450d-ada3-ab9101511b22)
+  - [Webpage Behavior (JavaScript), part 2 (PDF)](21-webpage-behavior2/document-object-model.pdf)
+  - [Lecture Demo File - JavaScript (ZIP)](21-webpage-behavior2/lecture-demo.zip)
+  - Project 3 Information Video (coming soon)
+  - [Information about Project 3 - suggested workflow (PDF)](21-webpage-behavior2/project3-structure.pdf)
 
 ## Current assignment(s)
 
-- [ ] [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: <s>March 26</s> *updated (again):* April 2)
 - [ ] [Lab 13: HTML Forms, part 2](lab13-html-forms2/instructions.md)  (due: Monday, April 6, 2020 - *one full week!*)
 - [ ] Project 3: Multipage Website (coming soon)
 

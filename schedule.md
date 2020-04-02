@@ -194,9 +194,12 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Wednesday, April 1, 2020**
     - [ ] OPEN LAB (staffed)
 
-- **Thursday, April 2, 2020**
-  - Lecture 21: Webpage Behavior, part 2; Project 3 Instructions
-    - NOTE: the start of Project 3 will overlap with Project 2, due Thursday, April 2
+- **Thursday, April 2, 2020** Lecture 21: Webpage Behavior, part 2; Project 3 Instructions
+  - [Lecture: Document Object Model (Panopto 34:32)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=748e9581-2e33-450d-ada3-ab9101511b22)
+  - [Webpage Behavior (JavaScript), part 2 (PDF)](21-webpage-behavior2/document-object-model.pdf)
+  - [Lecture Demo File - JavaScript (ZIP)](21-webpage-behavior2/lecture-demo.zip)
+  - Project 3 Information Video (coming soon)
+  - [Information about Project 3 - suggested workflow (PDF)](21-webpage-behavior2/project3-structure.pdf)
 
 <hr>
 
