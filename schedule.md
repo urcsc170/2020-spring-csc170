@@ -198,7 +198,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Lecture: Document Object Model (Panopto 34:32)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=748e9581-2e33-450d-ada3-ab9101511b22)
   - [Webpage Behavior (JavaScript), part 2 (PDF)](21-webpage-behavior2/document-object-model.pdf)
   - [Lecture Demo File - JavaScript (ZIP)](21-webpage-behavior2/lecture-demo.zip)
-  - [Project 3 Information Video (Panopto 19:12)]()
+  - Project 3 Information Video (Panopto xx:xx ...coming soon)
   - [Information about Project 3 - suggested workflow (PDF)](21-webpage-behavior2/project3-structure.pdf)
   - [ ] [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Wednesday, April 29, 2020)
 
