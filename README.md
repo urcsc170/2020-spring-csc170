@@ -10,11 +10,11 @@ Introduction to Web Development
   - [Lecture: Document Object Model (Panopto 34:32)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=748e9581-2e33-450d-ada3-ab9101511b22)
   - [Webpage Behavior (JavaScript), part 2 (PDF)](21-webpage-behavior2/document-object-model.pdf)
   - [Lecture Demo File - JavaScript (ZIP)](21-webpage-behavior2/lecture-demo.zip)
-  - Project 3 Information Video (coming soon)
+  - [Project 3 Information Video (Panopto 19:12)]()
   - [Information about Project 3 - suggested workflow (PDF)](21-webpage-behavior2/project3-structure.pdf)
 
 ## Current assignment(s)
 
 - [ ] [Lab 13: HTML Forms, part 2](lab13-html-forms2/instructions.md)  (due: Monday, April 6, 2020 - *one full week!*)
-- [ ] Project 3: Multipage Website (coming soon)
+- [ ] [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Wednesday, April 29, 2020)
 
