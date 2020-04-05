@@ -15,6 +15,7 @@ Introduction to Web Development
 
 ## Current assignment(s)
 
-- [ ] [Lab 13: HTML Forms, part 2](lab13-html-forms2/instructions.md)  (due: Monday, April 6, 2020 - *one full week!*)
+- [ ] [Lab 14: JavaScript Basics](lab14-javascript-basics/instructions.md) (due: Wednesday, April 8)
+
 - [ ] [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Wednesday, April 29, 2020)
 

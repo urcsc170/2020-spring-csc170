@@ -205,7 +205,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, April 6, 2020**
-    - [ ] Lab 14: JavaScript
+    - [ ] [Lab 14: JavaScript Basics](lab14-javascript-basics/instructions.md) (due: Wednesday, April 8)
 
 - **Tuesday, April 7, 2020**
   - Lecture 22: JavaScript Libraries and Plugins
