@@ -161,7 +161,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, March 23, 2020**
-    - [ ] [Lab 11: Localhost](lab11-localhost/instructions.md) (due: March 25)
+    - [x] [Lab 11: Localhost](lab11-localhost/instructions.md) (due: March 25)
 - **Tuesday, March 24, 2020** Lecture 18: HTML Forms, part 1
 
   - [Lecture (Panopto 1:06:58)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa028007-30f9-4355-9a38-ab8801563f30)
@@ -176,7 +176,7 @@ This schedule is subject to modification throughout the semester. Always check w
     - At **1:02:30**, the mistake ends.
   - [HTML Forms, part 1 (PDF)](18-html-forms1/html-forms1.pdf)
 - **Wednesday, March 25, 2020**
-    - [ ] [Lab 12: HTML Forms, part 1 (due: March 30)](lab12-html-forms1/instructions.md)
+    - [x] [Lab 12: HTML Forms, part 1 (due: March 30)](lab12-html-forms1/instructions.md)
 - **Thursday, March 26, 2020** Lecture 19: HTML Forms, part 2
 
   - [Lecture (Panopto 28:04)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17a8c832-c474-4f00-b9bb-ab8a013e1965)
@@ -185,14 +185,14 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, March 30, 2020**
-  - [ ] [Lab 13: HTML Forms, part 2 (due: Monday, April 6, 2020 - *one full week!*)](lab13-html-forms2/instructions.md)
+  - [x] [Lab 13: HTML Forms, part 2 (due: Monday, April 6, 2020 - *one full week!*)](lab13-html-forms2/instructions.md)
 
 - **Tuesday, March 31, 2020** Lecture 20: Webpage Behavior, part 1
   - [Lecture (Panopto 44:40)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=002e3c76-3d1e-43ef-8eb1-ab8f01524897)
   - [Webpage Behavior (JavaScript), part 1](20-webpage-behavior1/webpage-behavior.pdf)
 
 - **Wednesday, April 1, 2020**
-    - [ ] OPEN LAB (staffed)
+    - [x] OPEN LAB (staffed)
 
 - **Thursday, April 2, 2020** Lecture 21: Webpage Behavior, part 2; Project 3 Instructions
   - [Lecture: Document Object Model (Panopto 34:32)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=748e9581-2e33-450d-ada3-ab9101511b22)
@@ -205,21 +205,21 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, April 6, 2020**
-    - [ ] [Lab 14: JavaScript Basics](lab14-javascript-basics/instructions.md) (due: Wednesday, April 8)
+    - [x] [Lab 14: JavaScript Basics](lab14-javascript-basics/instructions.md) (due: <s>Wednesday, April 8</s> *updated: Monday, April 13*)
+- **Tuesday, April 7, 2020** Lecture 22: JavaScript Libraries
 
-- **Tuesday, April 7, 2020**
-  - Lecture 22: JavaScript Libraries and Plugins
-
+  - Lecture: [JavaScript Libraries (Panopto 40:57)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e9ff241a-6aae-4cea-893b-ab960167b4fd)
+    - [JavaScript Libraries (PDF)](22-javascript-libraries/javascript-libraries.pdf)
+    - [jQuery.com (website)](https://jquery.com/)
 - **Wednesday, April 8, 2020**
-  - [ ] Lab 15: JavaScript Libraries and Plugins
-
+  - [x] OPEN LAB (staffed)
 - **Thursday, April 9, 2020**
-  - Lecture 23: JavaScript Libraries and Plugins, part 2
+  - Lecture 23: JavaScript Plugins
 
 <hr>
 
 - **Monday, April 13, 2020**
-    - [ ] OPEN LAB (staffed)
+    - [ ] Lab 15: JavaScript Libraries and Plugins
 
 - **Tuesday, April 14, 2020**
   - Lecture 24: Website Construction, part 2

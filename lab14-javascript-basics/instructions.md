@@ -1,5 +1,5 @@
 # Lab 14: JavaScript Basics
-*Due: Wednesday, April 8, 2020*
+Due: <s>Wednesday, April 8</s> *updated: Monday, April 13*
 
 For this lab, you will re-incorporate your **start.php** file (and rename it "index") to have it work like a normal index (home) page for your website.  On you index page you will incorporate two JavaScript behaviors (which will be very basic, but we'll spice them up in a later lab).
 
