@@ -213,8 +213,11 @@ This schedule is subject to modification throughout the semester. Always check w
     - [jQuery.com (website)](https://jquery.com/)
 - **Wednesday, April 8, 2020**
   - [x] OPEN LAB (staffed)
-- **Thursday, April 9, 2020**
-  - Lecture 23: JavaScript Plugins
+- **Thursday, April 9, 2020** Lecture 23: JavaScript Plugins
+
+  - Lecture: [JavaScript Plugins (Panopto 45:36)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c58dc198-ecaf-4d7d-b09a-ab98017431d6)
+    - [JavaScript Plugins (PDF)](23-javascript-plugins/javascript-plugins.pdf)
+    - [jQuery UI (website)](https://jqueryui.com/)
 
 <hr>
 
