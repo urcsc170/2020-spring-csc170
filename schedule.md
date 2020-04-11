@@ -222,7 +222,7 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, April 13, 2020**
-    - [ ] Lab 15: JavaScript Libraries and Plugins
+    - [ ] [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) (due: Wednesday, April 15)
 
 - **Tuesday, April 14, 2020**
   - Lecture 24: Website Construction, part 2

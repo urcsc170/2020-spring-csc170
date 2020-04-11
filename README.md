@@ -13,9 +13,7 @@ Introduction to Web Development
 
 ## Current assignment(s)
 
-- Wednesday, April 8 - **NO NEW LAB** (Lab 15 postponed until Monday, April 13)
-
+- [ ] [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) (due: Wednesday, April 15)
 - [ ] [Lab 14: JavaScript Basics](lab14-javascript-basics/instructions.md) (due: <s>Wednesday, April 8</s> *updated: Monday, April 13*)
-
 - [ ] [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Wednesday, April 29, 2020)
 
