@@ -14,6 +14,7 @@ Introduction to Web Development
 ## Current assignment(s)
 
 - [ ] [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) (due: Wednesday, April 15)
+  - This plugin, required for Lab 15: [sss.zip](lab15-javascript-plugins/sss.zip)
 - [ ] [Lab 14: JavaScript Basics](lab14-javascript-basics/instructions.md) (due: <s>Wednesday, April 8</s> *updated: Monday, April 13*)
 - [ ] [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Wednesday, April 29, 2020)
 
