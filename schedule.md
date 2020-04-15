@@ -222,13 +222,13 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, April 13, 2020**
-    - [ ] [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) (due: Wednesday, April 15)
+    - [x] [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) (due: Wednesday, April 15)
 - **Tuesday, April 14, 2020** Lecture 24: Website Construction, part 2
 
   - Lecture: [Website Construction, part 2 (Panopto 25:55)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a35e40b2-6aa4-4dea-b669-ab9d015dfe49)
     - [Menu Highlighter - demo files (ZIP)](24-website-construction2/menu-highlighter_demo.zip)
 - **Wednesday, April 15, 2020**
-  - [ ] Lab 16: Menu Highlighter
+  - [ ] [Lab 16: Menu Highlighter Plugin](lab16-menu-highlighter/instructions.md) (due: Monday, April 20)
 - **Thursday, April 16, 2020**
   - Lecture 25: Mobile Design, part 1
 
