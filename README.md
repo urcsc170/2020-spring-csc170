@@ -6,6 +6,9 @@ Introduction to Web Development
 
 ## Current topic
 
+- Thursday, April 16 **Mobile Design, part 1**
+  - [Lecture Video: Mobile Design, part 1 (Panopto 58:01)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=97bc2829-4143-4eae-8c5f-ab9f014f833d)
+    - [Mobile Design, part 1 (PDF)](25-mobile-design1/mobile-design.pdf)
 - Tuesday, April 14 **Website Construction, part 2**
   - Lecture: [Website Construction, part 2 (Panopto 25:55)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a35e40b2-6aa4-4dea-b669-ab9d015dfe49)
     - [Menu Highlighter - demo files (ZIP)](24-website-construction2/menu-highlighter_demo.zip)
