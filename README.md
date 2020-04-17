@@ -16,6 +16,7 @@ Introduction to Web Development
 ## Current assignment(s)
 
 - [ ] [Lab 16: Menu Highlighter Plugin](lab16-menu-highlighter/instructions.md) (due: Monday, April 20)
-
 - [ ] [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Wednesday, April 29, 2020)
+
+
 
