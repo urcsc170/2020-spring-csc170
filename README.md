@@ -6,13 +6,14 @@ Introduction to Web Development
 
 ## Current topic
 
-- Thursday, April 16 **Mobile Design, part 1**
-  - [Lecture Video: Mobile Design, part 1 (Panopto 58:01)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=97bc2829-4143-4eae-8c5f-ab9f014f833d)
-    - [Mobile Design, part 1 (PDF)](25-mobile-design1/mobile-design.pdf)
+- Tuesday, April 21 **Mobile Design, part 2** - the demos
+  - [Lecture Video: Mobile Design, part 2 (Panopto 27:53)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42756ef5-b67d-4926-93eb-aba4018245bd)
+    - [Demo files (ZIP)](26-mobile-design2/mobile-design_demos.zip)
 
 ## Current assignment(s)
 
-- [ ] [Lab 16: Menu Highlighter Plugin](lab16-menu-highlighter/instructions.md) (due: Monday, April 20)
+- [ ] Lab 17: Mobile Design (coming soon)
+
 - [ ] [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Wednesday, April 29, 2020)
 
 

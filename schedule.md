@@ -228,7 +228,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - Lecture: [Website Construction, part 2 (Panopto 25:55)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a35e40b2-6aa4-4dea-b669-ab9d015dfe49)
     - [Menu Highlighter - demo files (ZIP)](24-website-construction2/menu-highlighter_demo.zip)
 - **Wednesday, April 15, 2020**
-  - [ ] [Lab 16: Menu Highlighter Plugin](lab16-menu-highlighter/instructions.md) (due: Monday, April 20)
+  - [x] [Lab 16: Menu Highlighter Plugin](lab16-menu-highlighter/instructions.md) (due: Monday, April 20)
 - **Thursday, April 16, 2020** Lecture 25: Mobile Design, part 1
 
   - [Lecture Video: Mobile Design, part 1 (Panopto 58:01)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=97bc2829-4143-4eae-8c5f-ab9f014f833d)
@@ -237,14 +237,13 @@ This schedule is subject to modification throughout the semester. Always check w
 <hr>
 
 - **Monday, April 20, 2020**
-    - [ ] OPEN LAB (staffed)
+    - [x] OPEN LAB (staffed)
+- **Tuesday, April 21, 2020** Lecture 26: Mobile Design, part 2
 
-- **Tuesday, April 21, 2020**
-  - Lecture 26: Mobile Design, part 2
-
+  - [Lecture Video: Mobile Design, part 2 (Panopto 27:53)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42756ef5-b67d-4926-93eb-aba4018245bd)
+    - [Demo files (ZIP)](26-mobile-design2/mobile-design_demos.zip)
 - **Wednesday, April 22, 2020**
   - [ ] Lab 17: Mobile Design
-
 - **Thursday, April 23, 2020**
   - Lecture 27: Driving Traffic to Websites, part 1
 
