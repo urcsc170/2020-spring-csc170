@@ -12,9 +12,9 @@ Introduction to Web Development
 
 ## Current assignment(s)
 
-- [ ] Lab 17: Mobile Design (coming soon)
+- [ ] [Lab 17: Mobile Design](lab17-mobile-design/instructions.md) (due: Monday, April 27)
 
-- [ ] [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Wednesday, April 29, 2020)
+- [ ] [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Wednesday, April 29)
 
 
 

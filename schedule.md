@@ -243,7 +243,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - [Lecture Video: Mobile Design, part 2 (Panopto 27:53)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42756ef5-b67d-4926-93eb-aba4018245bd)
     - [Demo files (ZIP)](26-mobile-design2/mobile-design_demos.zip)
 - **Wednesday, April 22, 2020**
-  - [ ] Lab 17: Mobile Design
+  - [ ] [Lab 17: Mobile Design](lab17-mobile-design/instructions.md) (due: Monday, April 27)
 - **Thursday, April 23, 2020**
   - Lecture 27: Driving Traffic to Websites, part 1
 
