@@ -244,13 +244,14 @@ This schedule is subject to modification throughout the semester. Always check w
     - [Demo files (ZIP)](26-mobile-design2/mobile-design_demos.zip)
 - **Wednesday, April 22, 2020**
   - [ ] [Lab 17: Mobile Design](lab17-mobile-design/instructions.md) (due: Monday, April 27)
-- **Thursday, April 23, 2020**
-  - Lecture 27: Driving Traffic to Websites, part 1
+- **Thursday, April 23, 2020** Lecture 27: Driving Traffic to Websites, part 1
+
+  - [Coming soon]
 
 <hr>
 
 - **Monday, April 27, 2020**
-    - [ ] Lab 18: Search Engine Optimization
+    - [ ] [Lab 18: Google Analytics and Webmaster Tools](lab18-google-analytics/instructions.md) (due: Wednesday, April 29) 
 
 - **Tuesday, April 28, 2020**
   - [ ] Lecture 28: Driving Traffic to Websites, part 2

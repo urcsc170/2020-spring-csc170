@@ -6,11 +6,15 @@ Introduction to Web Development
 
 ## Current topic
 
+- Thursday, April 23 **Driving Traffic to Websites**
+  - [Coming soon]
 - Tuesday, April 21 **Mobile Design, part 2** - the demos
   - [Lecture Video: Mobile Design, part 2 (Panopto 27:53)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42756ef5-b67d-4926-93eb-aba4018245bd)
     - [Demo files (ZIP)](26-mobile-design2/mobile-design_demos.zip)
 
 ## Current assignment(s)
+
+- [ ] [Lab 18: Google Analytics and Webmaster Tools](lab18-google-analytics/instructions.md) (due: Wednesday, April 29) 
 
 - [ ] [Lab 17: Mobile Design](lab17-mobile-design/instructions.md) (due: Monday, April 27)
 
