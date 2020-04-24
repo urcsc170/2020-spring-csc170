@@ -7,10 +7,10 @@ Introduction to Web Development
 ## Current topic
 
 - Thursday, April 23 **Driving Traffic to Websites**
-  - [Coming soon]
-- Tuesday, April 21 **Mobile Design, part 2** - the demos
-  - [Lecture Video: Mobile Design, part 2 (Panopto 27:53)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42756ef5-b67d-4926-93eb-aba4018245bd)
-    - [Demo files (ZIP)](26-mobile-design2/mobile-design_demos.zip)
+  - Lecture Video: [Driving Traffic to Websites (Panopto 22:50)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db28ba11-d7a6-4609-82dc-aba6016c48ae)
+    - Note: when recorded, this lecture covered both the general topic of **website traffic** *and* **Search Engine Optimization (SEO)** ...which resulted in a very long lecture video, so I cut it in two.  The second half will be published on Tuesday, April 28<br> *-Prof K*
+    - [Driving Traffic to Websites (PDF)](27-driving-traffic1/driving-traffic.pdf)
+    - [History of Search Engines (website)](https://www.wordstream.com/articles/internet-search-engines-history)
 
 ## Current assignment(s)
 

@@ -245,8 +245,10 @@ This schedule is subject to modification throughout the semester. Always check w
 - **Wednesday, April 22, 2020**
   - [ ] [Lab 17: Mobile Design](lab17-mobile-design/instructions.md) (due: Monday, April 27)
 - **Thursday, April 23, 2020** Lecture 27: Driving Traffic to Websites, part 1
-
-  - [Coming soon]
+- Lecture Video: [Driving Traffic to Websites (Panopto 22:50)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db28ba11-d7a6-4609-82dc-aba6016c48ae)
+    - Note: when recorded, this lecture covered both the general topic of **website traffic** *and* **Search Engine Optimization (SEO)** ...which resulted in a very long lecture video, so I cut it in two.  The second half will be published on Tuesday, April 28<br>*-Prof K*
+    - [Driving Traffic to Websites (PDF)](27-driving-traffic1/driving-traffic.pdf)
+    - [History of Search Engines (website)](https://www.wordstream.com/articles/internet-search-engines-history)
 
 <hr>
 
