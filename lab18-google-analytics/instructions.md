@@ -32,13 +32,9 @@ Next you will create a "property" (which is what Google calls a website) that po
 Here you will copy the tracking code from Google Analytics and paste it into the HTML code of your Project 2. Be prepared to edit your Project 2 index.html file.
 
 - Copy the **Tracking Code** to your computer's clipboard.<br>*The "tracking code" is that entire JavaScript snippet, including the opening and closing `<script>` tags – not just the UA number.*
-
 - Open your Project 2 **index.html** file in a text editor.
-
-- [ ] Paste the tracking code into the bottom of your HTML, just *above* the closing `</body>` tag.
-
-  - Note: Google says to put the tracking code in the HEAD of your code.  That's okay ...just not the Professor's preference for reasons explained in a previous lecture.
-
+- [ ] Paste the tracking code into the HEAD of your code.
+- Note: the Professor says his preference is to always put JavaScript (which is what the Google tracking code is), into the bottom of your code, right above the closing BODY tag.  But in this case, because Google says to put it in the HEAD, you need to do that.
 - [ ] Save the HTML file and re-upload it to the web server.
 
 ## Step 4: Browse your Account
