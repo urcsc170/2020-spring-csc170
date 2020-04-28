@@ -6,19 +6,16 @@ Introduction to Web Development
 
 ## Current topic
 
-- Thursday, April 23 **Driving Traffic to Websites**
-  - Lecture Video: [Driving Traffic to Websites (Panopto 22:50)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db28ba11-d7a6-4609-82dc-aba6016c48ae)
-    - Note: when recorded, this lecture covered both the general topic of **website traffic** *and* **Search Engine Optimization (SEO)** ...which resulted in a very long lecture video, so I cut it in two.  The second half will be published on Tuesday, April 28<br> *-Prof K*
-    - [Driving Traffic to Websites (PDF)](27-driving-traffic1/driving-traffic.pdf)
-    - [History of Search Engines (website)](https://www.wordstream.com/articles/internet-search-engines-history)
+- Tuesday, April 28  **Driving Traffic to Websites, part 2**
+  - Lecture Video: [Search Engine Optimization (Panopto 59:33)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27edb3f9-5ed6-4eb2-b25f-abaa013e0d36)
+    - [Driving Traffic - Search Engine Optimization (PDF)](28-driving-traffic2/search-engine-optimization.pdf)
+    - [Periodic Table of SEO Success Factors (PNG-image)](28-driving-traffic2/periodic-table-of-seo-success-factors.png)
+    - [Periodic Table of SEO Factors (detailed information, PDF)](28-driving-traffic2/SEL_SEO_Periodic_Table_2019.pdf)
 
 ## Current assignment(s)
 
 - [ ] [Lab 18: Google Analytics and Webmaster Tools](lab18-google-analytics/instructions.md) (due: Wednesday, April 29) 
 
-- [ ] [Lab 17: Mobile Design](lab17-mobile-design/instructions.md) (due: Monday, April 27)
-
 - [ ] [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Wednesday, April 29)
-
 
 

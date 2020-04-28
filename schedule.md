@@ -254,11 +254,13 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - **Monday, April 27, 2020**
     - [ ] [Lab 18: Google Analytics and Webmaster Tools](lab18-google-analytics/instructions.md) (due: Wednesday, April 29) 
+- **Tuesday, April 28, 2020** Lecture 28: Driving Traffic to Websites, part 2
 
-- **Tuesday, April 28, 2020**
-  - [ ] Lecture 28: Driving Traffic to Websites, part 2
-
+  - Lecture Video: [Search Engine Optimization (Panopto 59:33)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27edb3f9-5ed6-4eb2-b25f-abaa013e0d36)
+    - [Driving Traffic - Search Engine Optimization (PDF)](28-driving-traffic2/search-engine-optimization.pdf)
+    - [Periodic Table of SEO Success Factors (PNG-image)](28-driving-traffic2/periodic-table-of-seo-success-factors.png)
+    - [Periodic Table of SEO Factors (detailed information, PDF)](28-driving-traffic2/SEL_SEO_Periodic_Table_2019.pdf)
 - **Wednesday, April 29, 2020**
   - [ ] OPEN LAB (staffed)
 
-*Note: there is nothing scheduled in Exam Week for CSC 170 (the exams are in the regularly scheduled labs)*
+*Note: there is nothing scheduled in Exam Week for CSC 170 <s>(the exams are in the regularly scheduled labs)</s>*
